@@ -11,4 +11,4 @@ Last modified: May 16, 2023
 6. *(if your amendment(s) are approved in a general meeting)* Merge the branch with your amendment(s) into `main`.
 
 ## Acknowledgements
-Adapted from the template provided in the [UMSU Student Club Constitution Tutorial Packge](https://umsu.ca/wp-content/uploads/2022/05/Student-Club-Constitution-Tutorial-Package-May-2022.pdf).
+Adapted from the template provided in the [UMSU Student Club Constitution Tutorial Package](https://umsu.ca/wp-content/uploads/2022/05/Student-Club-Constitution-Tutorial-Package-May-2022.pdf).
