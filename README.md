@@ -1,4 +1,4 @@
-# Constitution for the University of Manitoba Computer Science Students Association
+# Constitution for the University of Manitoba Computer Science Students' Association
 Last modified: May 16, 2023
 
 ## Contributing
