@@ -67,7 +67,7 @@ Computer Science Students’ Association
 The name of the student club shall be Computer Science Students’ Association, also known as CSSA.
 
 ## Article 1b: Purpose
-The CSSA represents the CS student body to the Computer Science Department and Faculty of Science, providing advocacy, support and community.
+The CSSA represents the computer science student body to the Department of Computer Science and Faculty of Science, providing advocacy, support and community.
 
 ## Article 1c: Club Status - Open
 CSSA’s Club Status is Open.
@@ -134,7 +134,7 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 8. Prepare an agenda and council package for Regular Meetings and distribute them to the Council at least two days prior to the meeting.
 9. Receive resignations of Council and inform Executives and the Computer Science student body of any such resignations.
 10. Ensure that the CSSA lounge is a safe and inclusive space.
-11. Lead the Financial Accounability Committee with upto 3 committee members.
+11. Lead the Financial Accounability Committee with up to 3 committee members.
 12. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 
@@ -151,10 +151,10 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 ### Director of Student Affairs
 
 1. Act as a liaison for the students towards the Department of Computer Science, Faculty of Science and UMSU.
-2. Act as a liaison between Students and council.
-3. Stay up to date on departmental and Senate meetings pretaining to the Computer Science program.
+2. Act as a liaison between Students and Council.
+3. Stay up to date on departmental and Senate meetings pertaining to the Computer Science program.
 4. Lead relevant campaigns on issues affecting the Computer Science Student Community.
-5. Work with the Director of Advocacy to promote opportunities of initiative/programs/organizations pretaining to where the Computer Science community is underrepresented.
+5. Work with the Director of Advocacy to promote opportunities of initiative/programs/organizations pertaining to where the Computer Science community is underrepresented.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
 7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
@@ -168,7 +168,7 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 6. Ensure posters and advertisements for CSSA events are in an accessible format.
 7. Work in collaboration with other groups to promote and assist with collabroative events and initiatives.
 8. Ensure that the CSSA lounge is a safe and inclusive space.
-9. Lead the Events and Promotions Committee with upto 3 committee members.
+9. Lead the Events and Promotions Committee with up to 3 committee members.
 10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Advocacy
@@ -177,7 +177,7 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 2. Attend Community Assemblies.
 3. Guides the council on advocacy for underrepresented communities.
 4. Elected by the student body in the CSSA elections.
-5. If not filled by an elected executive in the CSSA elections, An elected executive of an UMSU recognized underrepresented community within the department of Computer Science may be appointed as the Director of Advocacy for the CSSA. Eg: The Women in Computer Science Council.
+5. If not filled by an elected executive in the CSSA elections, An elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA. Eg: The Women in Computer Science Council.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
 7. Lead the Community Advocates commitee with up to and including committee members for each community recogized under UMSU.
 8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
@@ -188,16 +188,15 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 2. Participate in voting on club related activities.
 3. Participate and assist with Group activities.
 4. Be responsible for any specific tasks delegated to them by general resolution of Council.
-5. Be familiar with these bylaws and the Robert’s Rules of Order and not establish accountablity outside the jurisdiction of their portfolio.
-6. Declare any conflicts of interest.
-7. Declare any personal or financial interest in any expenditure of the group funds.
-8. Comply with all regulations set out by the Campus Police of the Dean’s Office, specifically those concerning smoking and drinking on campus.
-9. Promote Council cohesion and a respectful atmosphere abiding by the University of Manitoba Respectful Workplace and Learning Environment Policy.
-10. Refrain from drug/alcohol use or sexual activity at any CSSA event or in the CSSA lounge. Alcohol consumption is only permitted if the venue of the event distributes alcohol.
-11. Not allow any persons who are not Members of Council to use CSSA Office space in the absence of a Member of Council.
-9. Prepare, in cooperation with other executives of the same position when applicable, an orientation package for the subsequent person to fill each position.
-10. Attend all regular meetings.
-11. Put fair effort into acquiring a proxy, in the event a voting member is unable to attend a Council meeting.
+5. Declare any conflicts of interest.
+6. Declare any personal or financial interest in any expenditure of the group funds.
+7. Comply with all regulations set out by the Campus Police of the Dean’s Office, specifically those concerning smoking and drinking on campus.
+8. Promote Council cohesion and a respectful atmosphere abiding by the University of Manitoba Respectful Workplace and Learning Environment Policy.
+9. Refrain from drug/alcohol use or sexual activity at any CSSA event or in the CSSA lounge. Alcohol consumption is only permitted if the venue of the event distributes alcohol.
+10. Not allow any persons who are not Members of Council to use CSSA Office space in the absence of a Member of Council.
+11. Prepare, in cooperation with other executives of the same position when applicable, an orientation package for the subsequent person to fill each position.
+12. Attend all regular meetings.
+13. Put fair effort into acquiring a proxy, in the event a voting member is unable to attend a Council meeting.
 
 ## Article 2c: Executive Officer Dismissal Protocol
 Executive Officer(s) that fail to uphold their basic duties outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or violate any Governance articles in [**Section 4: Club Governance**](#section-4-club-governance) are subjected to temporary probation for a performance review. This performance review must be started and conducted by the President and requires a clear written assessment of the officer’s performance versus the minimum threshold of the duties that the officer must do as outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or [**Section 4: Club Governance**](#section-4-club-governance). Written assessment must be documented, dated, and stored in case the club is under investigation.
