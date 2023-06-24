@@ -47,7 +47,7 @@ This is a label for specific individuals who have authorization to sign cheques,
 This conflict happens when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organisation or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral. (Investopedia)
 
 ## **Council**
-Any person in power that has any duties or responsibilities to the club such as executives, council members, volunteers, etc. 
+Any person in power that has any duties or responsibilities to the club such as executives, council members, volunteers, etc. Proxy members part of council must be Computer Science students.
 
 ## **Community**
 The members of the club which are usually the council and its members.
@@ -67,7 +67,7 @@ Computer Science Students’ Association
 The name of the student club shall be Computer Science Students’ Association, also known as the CSSA.
 
 ## Article 1b: Purpose
-The CSSA represents the computer science student body to the Department of Computer Science and Faculty of Science, providing advocacy, support and community.
+The CSSA represents the CS student body to the Computer Science Department and Faculty of Science, providing advocacy, support and community.
 
 ## Article 1c: Club Status - Open
 CSSA’s Club Status is Open.
@@ -77,7 +77,7 @@ Membership of the club is Free and lasts for a full academic year, September to 
 
 CSSA will consist of the following executives members, who shall be voting members of the group as part of the council:
 
-- Co-Presidents
+- President(s)
 - Director of Finances and Internal Affairs
 - Director of Lounge Affairs
 - Director of Student Affairs
@@ -89,10 +89,10 @@ CSSA will consist of the following non-executives who shall be non-voting member
 ### Councillor
 
 1. Non-voting member of council.
-2. Voting member of a committee led by a Director.
+2. Voting member of a committee led by an Executive Director.
 3. Perform any duties directed by their committee.
 
-Voting Members may not be on academic or social probation.
+Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
 
 # Section 2: Club Executives
 
@@ -102,9 +102,8 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 ## Article 2b: Executive Officers and Duties
 
 
-### Co-Presidents
-
-The Co-presidents is a transitional role approved by the 2022-2023 council for the 2023-2024 CSSA general elections and elected as a single voting member on council.
+### President(s)
+If there is more then 1 president, they exist as a single voting member on council.
 
 1. Act as a signing authority for CSSA.
 2. Be the contact person for UMSU.
@@ -112,15 +111,16 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 4. Attend Student Executive Assembly (SEA) Meetings on behalf of CSSA.
 5. Be responsible for the overall operations of the group.
 6. Deal with issues concerning the club and its individual Members.
-7. Serve as signing authority on any group accounts.
-8. Be a voting member of CSSA for management decisions.
-9. Call special meetings.
-10. Attend all meetings.
-11. Carry out provisions of the constitution.
-12. Ensure the group funds remain in budget with local and corporate sponsors along with the Director of Finances and Internal Affairs.
-13. Ensure that the CSSA lounge is a safe and inclusive space.
-14. Enforce that the transition report is done by April 30 of the council’s term.
-15. Perform any other duties incidental to the office of the President or directed by Council.
+7. Coordinate team-building events for Council.
+8. Serve as signing authority on any group accounts.
+9. Be a voting member of CSSA for management decisions.
+10. Call special meetings.
+11. Attend all meetings.
+12. Carry out provisions of the constitution.
+13. Ensure the group funds remain in budget with local and corporate sponsors along with the Director of Finances and Internal Affairs.
+14. Ensure that the CSSA lounge is a safe and inclusive space.
+15. Enforce that the transition report is done by April 30 of the council’s term.
+16. Perform any other duties incidental to the office of the President or directed by Council.
 
 ### Director of Finances and Internal Affairs
 
@@ -151,25 +151,25 @@ The Co-presidents is a transitional role approved by the 2022-2023 council for t
 ### Director of Student Affairs
 
 1. Act as a liaison for the students towards the Department of Computer Science, Faculty of Science and UMSU.
-2. Act as a liaison between Students and Council.
+2. Act as a liaison between students and Council.
 3. Stay up to date on departmental and Senate meetings pertaining to the Computer Science program.
 4. Lead relevant campaigns on issues affecting the Computer Science Student Community.
 5. Work with the Director of Advocacy to promote opportunities of initiative/programs/organizations pertaining to where the Computer Science community is underrepresented.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
-7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+7. Lead the Outreach Committee with up to 3 committee members.
+8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Events
 
-1. Be responsible for planning the events for the Computer Science community.
-2. Coordinate team-building events for Council.
-3. Coordinate a minimum of one event or academic initiative in each term, as per the discretion of the Council.
-4. Ensure there are an adequate number of social and academic events.
-5. Create posters and advertisements for all CSSA events.
-6. Ensure posters and advertisements for CSSA events are in an accessible format.
-7. Work in collaboration with other groups to promote and assist with collabroative events and initiatives.
-8. Ensure that the CSSA lounge is a safe and inclusive space.
-9. Lead the Events and Promotions Committee with up to 3 committee members.
-10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+1. Oversee the planning the events for the Computer Science community.
+2. Coordinate a minimum of one event or academic initiative in each term, as per the discretion of the Council.
+3. Ensure there are an adequate number of social and academic events.
+4. Oversee and create posters and advertisements for all CSSA events.
+5. Ensure posters and advertisements for CSSA events are in an accessible format.
+6. Work in collaboration with other groups to promote and assist with collabroative events and initiatives.
+7. Ensure that the CSSA lounge is a safe and inclusive space.
+8. Lead the Events and Promotions Committee with up to 3 committee members.
+9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Advocacy
 
@@ -244,7 +244,7 @@ Prior to the election, the Executives shall appoint a Chief Returning Officer (C
 Voting for the upcoming year’s President will be conducted as follows:
 
 1. The electoral President position must be posted adequately and competently advertised to the club’s membership at least 2 weeks in advance. This post must be shown through at least the club’s membership email list and social media.
-2. Nominations for the elected position will last for three days. Candidates who wish to be nominated should inform the CRO during that period, and must be a member in good standing of CSSA at the time of their nomination.
+2. Nominations for the elected position will last for a minimum of three days. Candidates who wish to be nominated should inform the CRO during that period, and must be a member in good standing of CSSA at the time of their nomination.
 3. Each nominated candidate is allowed to campaign on behalf of themselves and any slate (or team) they are a part of during the campaigning period, which will last for at least a week.
 4. The CRO will collect a brief biography and campaign platform from each candidate and distribute them all to the club’s current membership email list of CSSA prior to voting. This list must be of members from the current academic year and any tampering of this list will void the election results as well as constitute a constitution violation.
 5. Voting will be open for at least two days, and will be held through a secure online voting platform. It has to be accessible to all members of the club.
@@ -265,7 +265,7 @@ Prior to the election, the President shall appoint a Chief Returning Officer (CR
 Voting for the upcoming year’s Council will be conducted as follows:
 
 1. The vacant council position(s) must be posted adequately and competently advertised to the club’s membership at least 2 weeks in advance. This post must be shown through at least the club’s membership email list and social media.
-2. Nominations for the elected positions will last for three days. Candidates who wish to be nominated should inform the CRO during that period, and must be a member in good standing of CSSA at the time of their nomination.
+2. Nominations for the elected positions will last for a minimum of three days. Candidates who wish to be nominated should inform the CRO during that period, and must be a member in good standing of CSSA at the time of their nomination.
 3. Each nominated candidate is allowed to campaign on behalf of themselves and any slate (or team) they are a part of during the campaigning period, which will last for at least a week.
 4. The CRO will collect a brief biography and campaign platform from each candidate and distribute them all to the club’s current membership e-mail list of CSSA prior to voting. This list must be of members from the current academic year and any tampering of this list will void the election results as well as constitute a constitution violation.
 5. Voting will be open for at least two days, and will be held through a secure online voting platform. It has to be accessible to all members of the club.
