@@ -64,7 +64,7 @@ Computer Science Students’ Association
 # Section 1: Club Identity
 
 ## Article 1a: Name
-The name of the student club shall be Computer Science Students’ Association, also known as CSSA.
+The name of the student club shall be Computer Science Students’ Association, also known as the CSSA.
 
 ## Article 1b: Purpose
 The CSSA represents the computer science student body to the Department of Computer Science and Faculty of Science, providing advocacy, support and community.
