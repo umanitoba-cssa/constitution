@@ -1,4 +1,5 @@
 # Computer Science Students' Association (CSSA)
+
 ## Constitution and Bylaws
 
 **First Official Draft**: May 10th, 2023
@@ -35,44 +36,57 @@
 # Definitions
 
 ## **Open Club**
+
 These clubs make up a large majority of groups on campus because their memberships are open to any undergraduate or graduate student of the University of Manitoba, so long as no less than two-thirds of the club is undergraduate students.
 
 ## **Executive**
+
 This is a label for individuals that take up positions at the top of the club’s management hierarchy. These individuals are the final decision-makers for the club’s business such as Operations, Finance, Events, and Marketing. Regardless of their label internally or externally, if the position is labelled as an executive to UMSU, we will view the individual as an integral position to the club who holds responsibility and oversight.
 
 ## **Signing Authority**
+
 This is a label for specific individuals who have authorization to sign cheques, contracts, or anything legally binding in relation the club. Usually this is in reference to individuals who have authority to manage and access bank accounts, but it can also be used in UMSU for individuals who can make contracts with UMSU.
 
 ## **Conflict of Interest**
+
 This conflict happens when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organisation or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral. (Investopedia)
 
 ## **Council**
+
 Any person in power that has any duties or responsibilities to the club such as executives, council members, volunteers, etc. Proxy members part of council must be Computer Science students.
 
 ## **Community**
+
 The members of the club which are usually the council and its members.
 
 ## **Member in good standing**
+
 This is the status of the member with respect to the club’s internal conduct and rules whose main purpose is to civilly govern their community.
 
 ## **Stakeholder**
+
 A person or group who has a vested interest in an organisation and can either affect or be affected by its operations and performance. Examples can be customers, businesses, communities, or governments. (Investopedia)
 
 ## **CSSA**
+
 Computer Science Students’ Association
 
 # Section 1: Club Identity
 
 ## Article 1a: Name
+
 The name of the student club shall be Computer Science Students’ Association, also known as the CSSA.
 
 ## Article 1b: Purpose
-The CSSA represents the CS student body to the Computer Science Department and Faculty of Science, providing advocacy, support and community.
+
+The Computer Science Students’ Association represents the CS student body to the Computer Science Department and Faculty of Science, providing advocacy, support and community. In addition, the CSSA will support community engangement for anyone interested in computer science.
 
 ## Article 1c: Club Status - Open
-CSSA’s Club Status is Open.
+
+Computer Science Students’ Association’s Club Status is Open.
 
 ## Article 1d: Membership
+
 Membership of the club is Free and lasts for a full academic year, September to August. Individuals can join via sign-up form from the executive team, at any event or through the community discord. Signup is not required to participate in the club or its activities.
 
 CSSA will consist of the following executives members, who shall be voting members of the group as part of the council:
@@ -97,12 +111,13 @@ Councillors may not be on social probation and must be a Member in good standing
 # Section 2: Club Executives
 
 ## Article 2a: Terms of Office
+
 The Terms of Office for all Executive Positions at CSSA will last for at most one year from the first day they were officially appointed. Individuals in executive roles will be dismissed from their term in office after one year, unless they have been fairly reappointed into office again.
 
 ## Article 2b: Executive Officers and Duties
 
-
 ### President(s)
+
 If there is more then 1 president, they exist as a single voting member on council.
 
 1. Act as a signing authority for CSSA.
@@ -136,7 +151,6 @@ If there is more then 1 president, they exist as a single voting member on counc
 10. Ensure that the CSSA lounge is a safe and inclusive space.
 11. Lead the Financial Accounability Committee with up to 3 committee members.
 12. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
-
 
 ### Director of Lounge Affairs
 
@@ -199,6 +213,7 @@ If there is more then 1 president, they exist as a single voting member on counc
 13. Put fair effort into acquiring a proxy, in the event a voting member is unable to attend a Council meeting.
 
 ## Article 2c: Executive Officer Dismissal Protocol
+
 Executive Officer(s) that fail to uphold their basic duties outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or violate any Governance articles in [**Section 4: Club Governance**](#section-4-club-governance) are subjected to temporary probation for a performance review. This performance review must be started and conducted by the President and requires a clear written assessment of the officer’s performance versus the minimum threshold of the duties that the officer must do as outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or [**Section 4: Club Governance**](#section-4-club-governance). Written assessment must be documented, dated, and stored in case the club is under investigation.
 
 Criteria and reasoning for dismissal must not be discriminatory by nature and cannot be influenced by a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, written minutes with a cover letter explanation must be documented when performing this exception. There must always be a clear record and reason for a dismissal.
@@ -210,6 +225,7 @@ If an executive officer is dismissed, the club must follow [**Section 3: Club Ch
 # Section 3: Club Changeover
 
 ## Article 3a: Conflict of Interest
+
 A Conflict of Interest is defined as when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organisation or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral.
 
 During an election process, conflicts of interest may arise. When they do, the individual who has professional duties or responsibilities related to organising the democratic election procedure must identify their conflict of interest and withdraw from the role for that particular election. This is to guarantee a fair democratic process. Failure to identify the conflict of interest and/or withdrawal from the role will be considered a violation to the club’s constitution and the club will be subjected to the disciplinary items outlined in [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
@@ -217,6 +233,7 @@ During an election process, conflicts of interest may arise. When they do, the i
 Results from a Democratic Election that had a conflict of interest may be subject to be voided. A rerun of the democratic election without any conflicts of interest may begin again for the open executive position(s).
 
 ## Article 3b: Chief Returning Officer Appointment
+
 Prior to the election, the Executives agree to appoint a Chief Returning Officer (CRO) to oversee the election. This CRO ensures the election is run competently, fairly, and transparently to its members and UMSU.
 
 To ensure the election is run fairly and transparently, the CRO must:
@@ -228,6 +245,7 @@ To ensure the election is run fairly and transparently, the CRO must:
 If a member or members of the executive team appoint CROs with a conflict of interest and continue to run elections with that conflict of interest, this is considered a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ## Article 3c: Chief Returning Officer Duties
+
 The duties of the CRO are to:
 
 1. Oversee and administer the elections for CSSA.
@@ -237,6 +255,7 @@ The duties of the CRO are to:
 5. Announce the results of the elections and inform UMSU of who next year’s Executive will be.
 
 ## Article 3d: President Appointment Procedure
+
 All CSSA Presidential elections for the upcoming year will occur no later than March 31st on an annual basis.
 
 Prior to the election, the Executives shall appoint a Chief Returning Officer (CRO) to oversee the elections via the procedure outlined in [**Article 3b: Chief Returning Officer Appointment**](#article-3b-chief-returning-officer-appointment).
@@ -248,16 +267,18 @@ Voting for the upcoming year’s President will be conducted as follows:
 3. Each nominated candidate is allowed to campaign on behalf of themselves and any slate (or team) they are a part of during the campaigning period, which will last for at least a week.
 4. The CRO will collect a brief biography and campaign platform from each candidate and distribute them all to the club’s current membership email list of CSSA prior to voting. This list must be of members from the current academic year and any tampering of this list will void the election results as well as constitute a constitution violation.
 5. Voting will be open for at least two days, and will be held through a secure online voting platform. It has to be accessible to all members of the club.
-6. The results from the online voting platform will be collected by the CRO. These results will be sent to candidates and CSSA members.
-
-Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
+6. The results from the online vot
+   ing platform will be collected by the CRO. These results will be sent to candidates and CSSA members.
+   Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ## Article 3e: Council Appointment Systems
+
 If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation. This is subject to Article 2d: Councillors and Advisor Duties. Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
 
 If it is found that a council appointment was not appointed in good faith and the procedure was not followed, the action will be considered in violation of the constitution and the club will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ### Democratic Election Procedure
+
 All CSSA Council elections for the upcoming year will occur no later than October 1st on an annual basis. Exceptions can only be made on a case-by-case basis such as an executive being dismissed.
 
 Prior to the election, the President shall appoint a Chief Returning Officer (CRO) to oversee the elections via the procedure outlined in [**Article 3b: Chief Returning Officer Appointment**](#article-3b-chief-returning-officer-appointment).
@@ -280,9 +301,11 @@ Nominations:
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ### Application Selection Procedure
+
 All CSSA Council Positions must be filled for the upcoming year by no later than October 1st on an annual basis. Exceptions can only be made on a case-by-case basis such as an executive being dismissed.
 
 Before advertising the vacant council position(s), the new President must appoint a Selections Committee to assist in selecting the upcoming year’s Council:
+
 - The appointment of the Selections Committee individuals must be chosen through a democratic vote from the previous year’s council.
 - If the Selections Committee does not consist of the new President and last year’s 10 Council Members, then this procedure cannot be enacted. In total, you will have 11 members on this committee. This is considered the general standard for the Selections Committee structure.
 - In the case that the Selections Committee cannot be appointed due to not fulfilling the requirements, the President must use the Democratic Election Procedure outlined above.
@@ -319,6 +342,7 @@ If you are unsure about your working relationship and status with the bank, plea
 # Section 4: Club Governance
 
 ## Article 4a: Compliance with University of Manitoba Students' Union (UMSU) Policies
+
 CSSA will comply with the University of Manitoba Students’ Union (UMSU) and follow all of its bylaws, policies, procedures, and any mandatory training workshop required. Also, CSSA will follow the policies and procedures found in the UMSU Student Clubs Policies and Procedures document.
 
 These bylaws, policies, procedures, and workshops are designed with fostering a healthy safe environment in the clubs and protecting students. When a club does not follow the bylaws, policies, procedures, or workshops, then a club may be investigated. When being investigated, the club will comply with cooperating and providing the necessary documents as well as information. Any club that acts unfaithfully in the investigation process will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
@@ -326,6 +350,7 @@ These bylaws, policies, procedures, and workshops are designed with fostering a 
 If any article in the club’s constitution is in direct conflict with [**Article 4a: Compliance with UMSU Policies**](#article-4a-compliance-with-university-of-manitoba-students-union-umsu-policies), then [**Article 4a**](#article-4a-compliance-with-university-of-manitoba-students-union-umsu-policies) will take first priority and dismiss the effect of the other conflicting article. This is to ensure that clubs are compliant with UMSU policies which are designed to protect students.
 
 ## Article 4b: Compliance to a Sexual Violence Prevention Workshop
+
 To prevent sexual violence, CSSA council agrees to attend a sexual violence prevention workshop at UMSU’s discretion and direction. CSSA council agree to be held accountable for their community’s conduct with respect to sexual violence.
 
 At this workshop, usually hosted by Justice for Women’s University of Manitoba Club, CSSA council agrees to learn, apply, and adapt the content in the workshop towards their own club’s community. If the Justice for Women’s University of Manitoba Club is absent, UMSU will have full discretion in determining who will host these workshops.
@@ -333,11 +358,13 @@ At this workshop, usually hosted by Justice for Women’s University of Manitoba
 The completion of the workshop is required before CSSA can be recognized as a club by UMSU. This requirement must be completed before the end of the Fall semester in the academic year. Exceptions can be made on a case-by-case basis based on Student Group Services' discretion such as timing of club renewal.
 
 ## Article 4c: Compliance with University of Manitoba's Community Code of Conduct
+
 To foster an inclusive and welcoming community, CSSA will follow the code of conduct and behaviours expected of the University of Manitoba community outlined by the University of Manitoba Administration.
 
 Also, CSSA agrees to foster an environment that does not encourage STUDENT NON-ACADEMIC MISCONDUCT AND CONCERNING BEHAVIOUR outlined by the University of Manitoba.
 
 ## Article 4d: Amendments to Constitution
+
 Any changes (amendments) to this constitution must first be presented and reviewed by UMSU Student Group Services to ensure they align with UMSU policy. Once approved by Student Group Services, the constitution must then be approved by a formal vote of the entire student club membership at a publicised meeting. This meeting can be hosted in-person or virtual.
 
 The student club membership list is generally held by the executive council and the council is responsible for communicating these constitution changes to the members. Failure to communicate these changes and failure to host a publicised meeting qualifies as a violation to the constitution.
@@ -349,9 +376,10 @@ After the members of the club approve the constitution, a copy of the amended co
 To prevent corruption, [**Section 4: Club Governance**](#section-4-club-governance) and its associated articles cannot be changed (amended). These articles can only be changed if the change is mandated by UMSU explicitly in writing or the change was first proposed to UMSU by the club’s council and the club has received explicit approval of the change by UMSU Student Group Services in writing.
 
 ## Article 4e: Violations to Constitution
+
 When an executive or multiple executives violate(s) the article(s) in this constitution, the following disciplinary actions will come into effect:
 
-1. To avoid any conflict of interest, UMSU oversees any violations of constitutions. Every situation will be different and thus, UMSU will always have full oversight and discretion regarding what the verdict is, when the verdict takes place, and decide if disciplinary action is necessary. This is to guarantee a fair process and the well-being of students, the club, the overall campus community, and relevant stakeholders. UMSU will be responsible for explaining the violation and the possible repercussions. UMSU will also provide recommendations for how the club can move forward after the violation and consequences are settled. 
+1. To avoid any conflict of interest, UMSU oversees any violations of constitutions. Every situation will be different and thus, UMSU will always have full oversight and discretion regarding what the verdict is, when the verdict takes place, and decide if disciplinary action is necessary. This is to guarantee a fair process and the well-being of students, the club, the overall campus community, and relevant stakeholders. UMSU will be responsible for explaining the violation and the possible repercussions. UMSU will also provide recommendations for how the club can move forward after the violation and consequences are settled.
 2. To maintain equity, the severity of repercussions will depend on the weight of the constitution violation and the specifics of the situation. UMSU will act as a neutral third party in assessing the infringement and will pass down an appropriate conclusion on the matter. This will be based on precedent and UMSU bylaw parameters.
 3. Depending on the severity of the violation, CSSA may lose our recognition status, club funding, services, benefits, be expelled from UMSU, and/or receive repercussions from relevant stakeholders. Individual executive(s) may be dismissed from their term in office, lose benefits, lose services, expelled from the club, and/or receive personal repercussions from relevant stakeholders. Relevant stakeholders most importantly include the University of Manitoba Administration.
 
