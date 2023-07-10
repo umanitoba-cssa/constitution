@@ -17,6 +17,8 @@
     1. [President(s)](#presidents)
     2. [All Executives](#all-executives)
   - [**Article 2c: Executive Officer Dismissal Protocol**](#article-2c-executive-officer-dismissal-protocol)
+  - [**Article 2d: Councillors**](#article-2d-councillors)
+  - [**Article 2e: Committees and Duties**](#article-2e-committees-and-duties)
 - [**Section 3: Club Changeover**](#section-3-club-changeover)
   - [**Article 3a: Conflict of Interest**](#article-3a-conflict-of-interest)
   - [**Article 3b: Chief Returning Officer Appointment**](#article-3b-chief-returning-officer-appointment)
@@ -88,13 +90,9 @@ CSSA will consist of the following non-executives who shall be non-voting member
 
 ### Councillor
 
-1. Non-voting member of council.
-2. Voting member of a committee led by an Executive Director.
-3. Perform any duties directed by their committee.
-
 Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
 
-# Section 2: Club Executives
+# Section 2: Club Executives, Councillors, and Committees
 
 ## Article 2a: Terms of Office
 The Terms of Office for all Executive Positions at CSSA will last for at most one year from the first day they were officially appointed. Individuals in executive roles will be dismissed from their term in office after one year, unless they have been fairly reappointed into office again.
@@ -207,6 +205,29 @@ If there are no written minutes, written notice, and/or the information presente
 
 If an executive officer is dismissed, the club must follow [**Section 3: Club Changeover**](#section-3-club-changeover) in order to follow the proper procedure(s) outlined to fill the vacant position(s).
 
+## Article 2d: Councillors
+Councillors are non-voting members of council. They are appointed as voting members of their respective committee after all executive positions are filled.
+
+Any member of the CSSA may apply to be a councillor at the beginning of each academic year. Councillors will be assigned to committees by the council after they are all appointed. Councillor duties are outlined by committee in [**Article 2e: Committees and Duties**](#article-2e-committees-and-duties)
+
+## Article 2e: Committees and Duties
+Committees are groups led by Executive Officers to share their responsibilities and delegate tasks. Executive Officers may join other Officers' committees, but assume the same roles and responsibilities as a Councillor when acting as a committee member. 
+
+### Community Advocates Committee
+1.
+
+### Events and Promotions Committee
+1.
+
+### Financial Accountability Committee
+1.
+
+### Lounge Committee
+1.
+
+### Outreach Committee
+1. 
+
 # Section 3: Club Changeover
 
 ## Article 3a: Conflict of Interest
@@ -222,7 +243,7 @@ Prior to the election, the Executives agree to appoint a Chief Returning Officer
 To ensure the election is run fairly and transparently, the CRO must:
 
 - Not be a person who is running in the election.
-- Not have any conflicts of interest with the club’s management or electoral candidates. This conflict of interest is outlined in [**Article 3a: Conflict of Interest**].(#article-3a-conflict-of-interest).
+- Not have any conflicts of interest with the club’s management or electoral candidates. This conflict of interest is outlined in [**Article 3a: Conflict of Interest**](#article-3a-conflict-of-interest).
 - Be neutral and unbiased about the club and their electoral candidates in their election through their professional duties.
 
 If a member or members of the executive team appoint CROs with a conflict of interest and continue to run elections with that conflict of interest, this is considered a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
@@ -253,7 +274,7 @@ Voting for the upcoming year’s President will be conducted as follows:
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ## Article 3e: Council Appointment Systems
-If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation. This is subject to Article 2d: Councillors and Advisor Duties. Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
+If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation. This is subject to [**Article 2d: Councillors**](#article-2d-councillors). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
 
 If it is found that a council appointment was not appointed in good faith and the procedure was not followed, the action will be considered in violation of the constitution and the club will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
@@ -315,6 +336,8 @@ It is imperative that signing authorities' hand over the club’s bank account o
 The reason this is important is because personal information gets attached to bank accounts. If your name remains attached to a club's bank account after you have finished your term, you may be liable for future actions you have no part in simply because your name was left as an active member of the account.
 
 If you are unsure about your working relationship and status with the bank, please talk to your bank's appropriate representative and they should be able to provide any and all information about your club's bank account.
+
+## Article 3e: Councillor Appointment Procedure
 
 # Section 4: Club Governance
 
