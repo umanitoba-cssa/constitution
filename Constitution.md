@@ -11,7 +11,7 @@
   - [**Article 1b: Purpose**](#article-1b-purpose)
   - [**Article 1c: Club Status - Open**](#article-1c-club-status---open)
   - [**Article 1d: Membership**](#article-1d-membership)
-- [**Section 2: Club Executives**](#section-2-club-executives)
+- [**Section 2: Club Executives, Councillors, and Committees**](#section-2-club-executives-councillors-and-committees)
   - [**Article 2a: Terms of Office**](#article-2a-terms-of-office)
   - [**Article 2b: Executive Officers and Duties**](#article-2b-executive-officers-and-duties)
     1. [President(s)](#presidents)
@@ -177,8 +177,9 @@ If there is more then 1 president, they exist as a single voting member on counc
 4. Elected by the student body in the CSSA elections.
 5. If not filled by an elected executive in the CSSA elections, An elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA. Eg: The Women in Computer Science Council.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
-7. Lead the Community Advocates commitee with up to and including committee members for each community recogized under UMSU.
-8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+7. Oversee the election of Community Advocates and ensure that it is run competently, fairly, and transparently to CSSA's members.
+8. Lead the Community Advocates commitee with up to and including committee members for each community recogized under UMSU.
+9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### All Executives
 
@@ -208,25 +209,46 @@ If an executive officer is dismissed, the club must follow [**Section 3: Club Ch
 ## Article 2d: Councillors
 Councillors are non-voting members of council. They are appointed as voting members of their respective committee after all executive positions are filled.
 
-Any member of the CSSA may apply to be a councillor at the beginning of each academic year. Councillors will be assigned to committees by the council after they are all appointed. Councillor duties are outlined by committee in [**Article 2e: Committees and Duties**](#article-2e-committees-and-duties)
+Any member of the CSSA may apply to be a councillor at the beginning of each academic year. Councillors will be assigned to committees by the council after they are all appointed, with the exception of the Community Advocates Committee, as outlined in [**Community Advocates Committee Appointment**](#community-advocates-committee-appointment). Councillor duties are outlined by committee in [**Article 2e: Committees and Duties**](#article-2e-committees-and-duties)
 
 ## Article 2e: Committees and Duties
-Committees are groups led by Executive Officers to share their responsibilities and delegate tasks. Executive Officers may join other Officers' committees, but assume the same roles and responsibilities as a Councillor when acting as a committee member. 
+Committees are groups led by Executive Officers to share their responsibilities and delegate tasks. Executive Officers may join other Officers' committees, but assume the same roles and responsibilities as a Councillor when acting as a committee member.
 
 ### Community Advocates Committee
-1.
+1. If necessary, attend council meetings as a proxy for the Director of Advocacy in their absence.
+2. Assist the Director of Advocacy in their duties as an Executive Officer.
+
+### Community Advocates Committee Appointment
+Applicants will have the option to self-nominate for a Community Advocate position on their Councillor application.
+
+Applicants may choose one or more of the following Community Advocate roles:
+- Women's Advocate
+- Accessibility Advocate
+- 2SLGBTQIA+ Students' Advocate
+- Indigenous Students' Advocate
+- Black Students' Advocate
+- International Students' Advocate
+- Racialized Students' Advocate
+
+An applicant must self-identify as a member of the community they are self-nominating to advocate for.
+
+If multiple applicants self-nominate for the same Community Advocate role, the role will be voted on by CSSA members that self-identify as members of that community. The Director of Advocacy is responsible for overseeing and administering this process.
 
 ### Events and Promotions Committee
-1.
+1. If necessary, attend council meetings as a proxy for the Director of Events in their absence.
+2. Assist the Director of Events in their duties as an Executive Officer.
 
 ### Financial Accountability Committee
-1.
+1. If necessary, attend council meetings as a proxy for the Director of Finances in their absence.
+2. Assist the Director of Finances in their duties as an Executive Officer.
 
 ### Lounge Committee
-1.
+1. If necessary, attend council meetings as a proxy for the Director of Lounge Affairs in their absence.
+2. Assist the Director of Lounge Affairs in their duties as an Executive Officer.
 
 ### Outreach Committee
-1. 
+1. If necessary, attend council meetings as a proxy for the Director of Student Affairs in their absence.
+2. Assist the Director of Student Affairs in their duties as an Executive Officer.
 
 # Section 3: Club Changeover
 
