@@ -171,17 +171,16 @@ If there is more then 1 president, they exist as a single voting member on counc
 9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Advocacy
+If not filled by an elected executive in the CSSA elections, an elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA, e.g., the Women in Computer Science Council.
 
 1. Act as a liason between CSSA and UMSU community representatives: 2SLGBTQIA+, Accessibility, Black, Indigenous, International, Mature, Racialized and Women.
-2. Attend Community Assemblies.
-3. Guides the council on advocacy for underrepresented communities.
-4. Elected by the student body in the CSSA elections.
-5. If not filled by an elected executive in the CSSA elections, An elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA. Eg: The Women in Computer Science Council.
-6. Ensure that the CSSA lounge is a safe and inclusive space.
-7. Oversee the election of Community Advocates and ensure that it is run competently, fairly, and transparently to CSSA's members.
-8. Lead the Community Advocates Commitee with up to and including committee members for each community recogized under UMSU.
-9. Call Community Advocate Committee meetings and delegate tasks to committee members.
-10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+2. Attend UMSU Community Assemblies.
+3. Guide the council on advocacy for underrepresented communities.
+4. Ensure that the CSSA lounge is a safe and inclusive space.
+5. Oversee the election of Community Advocates and ensure that it is run competently, fairly, and transparently to CSSA's members.
+6. Lead the Community Advocates Commitee with up to and including committee members for each community recogized under UMSU.
+7. Call Community Advocate Committee meetings and delegate tasks to committee members.
+8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### All Executives
 
@@ -219,10 +218,14 @@ Committees are groups led by Executive Officers to share their responsibilities 
 There is no defined limit to the number of Councillors that may be appointed, and committees need not have an equal number of members. Councillors may change committees throughout the academic year with the permission of the Executive Officers leading both their current committee and desired committee.
 
 ### Community Advocates Committee
-1. If necessary, attend council meetings as a proxy for the Director of Advocacy in their absence.
-2. Assist the Director of Advocacy in their duties as an Executive Officer.
+1. Facilitate discussions with members of their community about how CSSA represents and advocates for them.
+2. Contribute perspectives of members of their community to council discussions.
+3. Assist with sensitivity reading for CSSA documents and promotional materials.
+4. Attend UMSU Community Assemblies alongside the Director of Advocacy.
+5. If necessary, attend council meetings as a proxy for the Director of Advocacy in their absence.
+6. Assist the Director of Advocacy in their duties as an Executive Officer.
 
-### Community Advocates Committee Appointment
+#### Community Advocates Committee Appointment
 Applicants will have the option to self-nominate for a Community Advocate position on their Councillor application.
 
 Applicants may choose one or more of the following Community Advocate roles:
@@ -232,6 +235,7 @@ Applicants may choose one or more of the following Community Advocate roles:
 - Indigenous Students' Advocate
 - Black Students' Advocate
 - International Students' Advocate
+- Mature Students' Advocate
 - Racialized Students' Advocate
 
 An applicant must self-identify as a member of the community they are self-nominating to advocate for.
@@ -239,20 +243,33 @@ An applicant must self-identify as a member of the community they are self-nomin
 If multiple applicants self-nominate for the same Community Advocate role, the role will be voted on by CSSA members that self-identify as members of that community. The Director of Advocacy is responsible for overseeing and administering this process.
 
 ### Events and Promotions Committee
-1. If necessary, attend council meetings as a proxy for the Director of Events in their absence.
-2. Assist the Director of Events in their duties as an Executive Officer.
+1. Monitor CSSA social media pages and direct inquiries to the appropriate Executive Officer.
+2. Create and distribute promotional graphics online and on campus.
+3. Perform volunteer duties at events as assigned by the Director of Events.
+4. If necessary, attend council meetings as a proxy for the Director of Events in their absence.
+5. Assist the Director of Events in their duties as an Executive Officer.
 
 ### Financial Accountability Committee
-1. If necessary, attend council meetings as a proxy for the Director of Finances in their absence.
-2. Assist the Director of Finances in their duties as an Executive Officer.
+1. Review, scrutinize, and audit the finances of the council.
+2. Approve or deny expenses proposed by any member of the council.
+3. Decide upon budgets for CSSA operations on a case-by-case basis.
+4. If necessary, attend council meetings as a proxy for the Director of Finances in their absence.
+5. Assist the Director of Finances in their duties as an Executive Officer.
 
 ### Lounge Committee
-1. If necessary, attend council meetings as a proxy for the Director of Lounge Affairs in their absence.
-2. Assist the Director of Lounge Affairs in their duties as an Executive Officer.
+1. Supervise the CSSA lounge and ensure its rules are being followed while present.
+2. Ensure the CSSA lounge is clean, accessible, and free of safety hazards.
+3. Oversee and record purchases from the canteen.
+4. Advise the Director of Lounge Affairs on the purchasing of lounge supplies.
+5. If necessary, attend council meetings as a proxy for the Director of Lounge Affairs in their absence.
+6. Assist the Director of Lounge Affairs in their duties as an Executive Officer.
 
 ### Outreach Committee
-1. If necessary, attend council meetings as a proxy for the Director of Student Affairs in their absence.
-2. Assist the Director of Student Affairs in their duties as an Executive Officer.
+1. Serve as a point of contact for other student organizations, inside and outside of the University of Manitoba, to the CSSA council.
+2. Maintain relationships with local schools, businesses, and organizations for volunteer and outreach opportunities.
+3. Work with the Director of Events and Events and Promotions Committee to organize events with external bodies.
+4. If necessary, attend council meetings as a proxy for the Director of Student Affairs in their absence.
+5. Assist the Director of Student Affairs in their duties as an Executive Officer.
 
 # Section 3: Club Changeover
 
