@@ -132,7 +132,7 @@ If there is more then 1 president, they exist as a single voting member on counc
 8. Prepare an agenda and council package for Regular Meetings and distribute them to the Council at least two days prior to the meeting.
 9. Receive resignations of Council and inform Executives and the Computer Science student body of any such resignations.
 10. Ensure that the CSSA lounge is a safe and inclusive space.
-11. Lead the Financial Accounability Committee with up to 3 committee members.
+11. Lead the Financial Accounability Committee, call committee meetings and delegate tasks to committee members.
 12. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 
@@ -144,7 +144,8 @@ If there is more then 1 president, they exist as a single voting member on counc
 4. Ensure appropriate reservation, organization, and signage for events that take place in the CSSA Lounge.
 5. Ensure that the CSSA lounge is a safe and inclusive space.
 6. Lead the CSSA lounge supervisors and work with council in appointing them.
-7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+7. Call lounge supervisor meetings and delegate tasks to supervisors.
+8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Student Affairs
 
@@ -154,7 +155,7 @@ If there is more then 1 president, they exist as a single voting member on counc
 4. Lead relevant campaigns on issues affecting the Computer Science Student Community.
 5. Work with the Director of Advocacy to promote opportunities of initiative/programs/organizations pertaining to where the Computer Science community is underrepresented.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
-7. Lead the Outreach Committee with up to 3 committee members.
+7. Lead the Outreach Committee, call committee meetings and delegate tasks to committee members.
 8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Events
@@ -166,7 +167,7 @@ If there is more then 1 president, they exist as a single voting member on counc
 5. Ensure posters and advertisements for CSSA events are in an accessible format.
 6. Work in collaboration with other groups to promote and assist with collabroative events and initiatives.
 7. Ensure that the CSSA lounge is a safe and inclusive space.
-8. Lead the Events and Promotions Committee with up to 3 committee members.
+8. Lead the Events and Promotions Committee, call committee meetings and delegate tasks to committee members.
 9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Advocacy
@@ -178,8 +179,9 @@ If there is more then 1 president, they exist as a single voting member on counc
 5. If not filled by an elected executive in the CSSA elections, An elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA. Eg: The Women in Computer Science Council.
 6. Ensure that the CSSA lounge is a safe and inclusive space.
 7. Oversee the election of Community Advocates and ensure that it is run competently, fairly, and transparently to CSSA's members.
-8. Lead the Community Advocates commitee with up to and including committee members for each community recogized under UMSU.
-9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+8. Lead the Community Advocates Commitee with up to and including committee members for each community recogized under UMSU.
+9. Call Community Advocate Committee meetings and delegate tasks to committee members.
+10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### All Executives
 
@@ -213,6 +215,8 @@ Any member of the CSSA may apply to be a councillor at the beginning of each aca
 
 ## Article 2e: Committees and Duties
 Committees are groups led by Executive Officers to share their responsibilities and delegate tasks. Executive Officers may join other Officers' committees, but assume the same roles and responsibilities as a Councillor when acting as a committee member.
+
+There is no defined limit to the number of Councillors that may be appointed, and committees need not have an equal number of members. Councillors may change committees throughout the academic year with the permission of the Executive Officers leading both their current committee and desired committee.
 
 ### Community Advocates Committee
 1. If necessary, attend council meetings as a proxy for the Director of Advocacy in their absence.
