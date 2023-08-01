@@ -14,8 +14,16 @@
 - [**Section 2: Club Executives, Councillors, and Committees**](#section-2-club-executives-councillors-and-committees)
   - [**Article 2a: Terms of Office**](#article-2a-terms-of-office)
   - [**Article 2b: Executive Officers and Duties**](#article-2b-executive-officers-and-duties)
-    1. [President(s)](#presidents)
-    2. [All Executives](#all-executives)
+    1. [President](#president)
+    2. [Vice President](#vice-president)
+    3. [Director of Finances](#director-of-finances)
+    4. [Director of Lounge Affairs](#director-of-lounge-affairs)
+    5. [Director of Student Affairs](#director-of-student-affairs)
+    6. [Director of Events](#director-of-student-affairs)
+    7. [Director of Advocacy](#director-of-advocacy)
+    8. [Director of Internal Affairs](#director-of-internal-affairs)
+    9. [Director of Promotions](#director-of-promotions)
+    10. [All Executives](#all-executives)
   - [**Article 2c: Executive Officer Dismissal Protocol**](#article-2c-executive-officer-dismissal-protocol)
   - [**Article 2d: Committees, Councillors, and Community Advocates**](#article-2d-committees-councillors-and-community-advocates)
 - [**Section 3: Club Changeover**](#section-3-club-changeover)
@@ -78,7 +86,8 @@ Membership of the club is Free and lasts for a full academic year, September to 
 
 CSSA will consist of the following executives members, who shall be voting members of the group as part of the council:
 
-- President(s)
+- President
+- Vice President
 - Director of Finances
 - Director of Lounge Affairs
 - Director of Student Affairs
@@ -101,9 +110,7 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 ## Article 2b: Executive Officers and Duties
 
 
-### President(s)
-If there is more then 1 president, they exist as a single voting member on council.
-
+### President
 1. Act as a signing authority for CSSA.
 2. Be the contact person for UMSU.
 3. Maintain frequent and punctual communication with the Faculty of Science, Department of Computer Science, UMSU, Members of Council, Members of the Association, and all other relevant parties.
@@ -118,8 +125,16 @@ If there is more then 1 president, they exist as a single voting member on counc
 12. Carry out provisions of the constitution.
 13. Ensure the group funds remain in budget with local and corporate sponsors along with the Director of Finances and Internal Affairs.
 14. Ensure that the CSSA lounge is a safe and inclusive space.
-15. Enforce that the transition report is done by April 30 of the council’s term.
+15. Enforce that the transition report is done by April 30 of the Council’s term.
 16. Perform any other duties incidental to the office of the President or directed by Council.
+
+### Vice President
+1. Act as a signing authority for CSSA.
+2. Assist the President with any of their duties as outlined above, as necessary or directed.
+3. Assume the role, duties, and ongoing tasks of the President in their absence.
+4. Ensure Executive Officers have adequate support and resources to perform their duties.
+5. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.
+6. Perform other duties incidental to this office within reasonble discretion as directed by the President and/or Council.
 
 ### Director of Finances
 1. Act as a signing authority for CSSA.
@@ -187,7 +202,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 2. Reserve the meeting room for CSSA executive meetings, general meetings and the CS Executive Assembly.
 3. Prepare an agenda and council package for executive meetings and distribute them to the Council at least one week prior to the meeting.
 4. Record meeting minutes during CSSA executive meetings and CS Executive Assemblies, or appoint another Council member to do so.
-5. Work with the President(s) to assign any actionable tasks that come about in meetings to members of Council.
+5. Work with the President to assign any actionable tasks that come about in meetings to members of Council.
 6. Work with the Director of Events to reserve rooms, equipment, and/or catering for on-campus activites.
 7. Monitor applications for Councillor positions and present them for consideration at CSSA executive meetings.
 8. Receive resignations of Council and inform Executives and the Computer Science student body of any such resignations.
