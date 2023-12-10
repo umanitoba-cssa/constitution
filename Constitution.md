@@ -192,7 +192,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 2. Attend UMSU Community Assemblies.
 3. Guide the council on advocacy for underrepresented communities.
 4. Ensure that the CSSA lounge is a safe and inclusive space.
-5. Oversee the election of Community Advocates and ensure that it is run competently, fairly, accessibly, without bias, and transparently to CSSA's members.
+5. Oversee the appointment of Community Advocates and ensure that it is run competently, fairly, accessibly, without bias, and transparently to CSSA's members.
 6. Work with, call meetings with, and delegate tasks to Community Advocates.
 7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
@@ -263,9 +263,9 @@ If a Committee leader deems the Committee's goal to be fulfilled, they may propo
 Councillors are non-voting members of council. Members of CSSA may apply for a Councillor position through an application that is publicly available throughout the year. Councillor applicants may indicate their interest to join an active committee. Once appointed by the Council, a Councillor may assume a general purpose volunteer role, or be appointed to a committee that they express interest in.
 
 ### Community Advocates
-When applying for a Councillor position, applicants will have the option to self-nominate for a Community Advocate position on their application form. However, self-nominations for Community Advocates will close at the end of September, after which the option will be removed from the form.
+Members of CSSA will have the option to self-nominate for a Community Advocate position on a separate application form.
 
-Applicants may choose one or more of the following Community Advocate roles:
+The available Community Advocate roles include, but are not limited to:
 - Women's Advocate
 - Accessibility Advocate
 - 2SLGBTQIA+ Students' Advocate
@@ -275,9 +275,9 @@ Applicants may choose one or more of the following Community Advocate roles:
 - Mature Students' Advocate
 - Racialized Students' Advocate
 
-An applicant must self-identify as a member of the community they are self-nominating to advocate for.
+Other advocate roles may be added at the discretion of the Director of Advocacy. An applicant must self-identify as a member of the community they are self-nominating to advocate for.
 
-If multiple applicants self-nominate for the same Community Advocate role, the role will be voted on by CSSA members that self-identify as members of that community. The Director of Advocacy is responsible for overseeing and administering this process. If a Community Advocate role or roles go unfilled, the other Advocates along with the Director of Advocacy should consciously work to seek out and include voices from those communities themselves.
+The Director of Advocacy is responsible for appointing Community Advocates and overseeing the self-nomination process. Community Advocates will be appointed at the end of September. Any unfilled Community Advocate positions may be open for the remainder of the academic year until they are filled.
 
 # Section 3: Club Changeover
 
