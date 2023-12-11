@@ -70,6 +70,12 @@ A person or group who has a vested interest in an organisation and can either af
 ## **CSSA**
 Computer Science Students’ Association
 
+## **Computer Science student(s)**
+Faculty of Science student(s) enrolled in or intending to enroll in a Computer Science program.
+
+## **Computer Science program**
+Any program offered by the Department of Computer Science, including joint majors, joint honors, and the Data Science program.
+
 # Section 1: Club Identity
 
 ## Article 1a: Name
@@ -263,7 +269,7 @@ If a Committee leader deems the Committee's goal to be fulfilled, they may propo
 Councillors are non-voting members of council. Members of CSSA may apply for a Councillor position through an application that is publicly available throughout the year. Councillor applicants may indicate their interest to join an active committee. Once appointed by the Council, a Councillor may assume a general purpose volunteer role, or be appointed to a committee that they express interest in.
 
 ### Community Advocates
-Members of CSSA will have the option to self-nominate for a Community Advocate position on a separate application form.
+Community Advocates are Councillors with the specific role of advocating for an marginalized group. Members of CSSA will have the option to self-nominate for a Community Advocate position on a separate application form.
 
 The available Community Advocate roles include, but are not limited to:
 - Women's Advocate
@@ -278,6 +284,13 @@ The available Community Advocate roles include, but are not limited to:
 Other advocate roles may be added at the discretion of the Director of Advocacy. An applicant must self-identify as a member of the community they are self-nominating to advocate for.
 
 The Director of Advocacy is responsible for appointing Community Advocates and overseeing the self-nomination process. Community Advocates will be appointed at the end of September. Any unfilled Community Advocate positions may be open for the remainder of the academic year until they are filled.
+
+### Dismissal of Councillors
+Councillors, including Community Advocates, may step down from their role voluntarily by notifying an executive member.
+
+If necessary, the Council may vote to remove a Councillor from their role. The reason for this vote must be clearly documented, dated, and stored in case the club is under investigation. The Councillor must be notified of their possible dismissal, and of the reasons behind it, with at least two weeks' notice of the vote being conducted. During this time, the Councillor will be subject to temporary probation until Council votes to dismiss or retain them.
+
+As in [Article 2c: Executive Officer Dismissal Protocol](#article-2c-executive-officer-dismissal-protocol), criteria and reasoning for dismissal must not be discriminatory by nature and cannot be influenced by a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability.
 
 # Section 3: Club Changeover
 
@@ -387,8 +400,6 @@ It is imperative that signing authorities' hand over the club’s bank account o
 The reason this is important is because personal information gets attached to bank accounts. If your name remains attached to a club's bank account after you have finished your term, you may be liable for future actions you have no part in simply because your name was left as an active member of the account.
 
 If you are unsure about your working relationship and status with the bank, please talk to your bank's appropriate representative and they should be able to provide any and all information about your club's bank account.
-
-## Article 3e: Councillor Appointment Procedure
 
 # Section 4: Club Governance
 
