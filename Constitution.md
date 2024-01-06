@@ -108,6 +108,10 @@ CSSA will consist of the following non-executives who shall be non-voting member
 
 Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
 
+### Community Advocates
+
+Community Advocates may not be on social probation and must be a Member in good standing as defined by UMSU.
+
 # Section 2: Club Executives, Councillors, and Committees
 
 ## Article 2a: Terms of Office
@@ -338,7 +342,7 @@ Voting for the upcoming year’s President will be conducted as follows:
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ## Article 3e: Council Appointment Systems
-If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation. This is subject to [**Article 2d: Committees, Councillors, and Community Advocates**](#article-2d-committees-councillors-and-community-advocates). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
+If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation; however a good faith attempt must be made to complete the democratic election procedure. This is subject to [**Article 2d: Committees, Councillors, and Community Advocates**](#article-2d-committees-councillors-and-community-advocates). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
 
 If it is found that a council appointment was not appointed in good faith and the procedure was not followed, the action will be considered in violation of the constitution and the club will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
