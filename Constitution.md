@@ -101,6 +101,7 @@ CSSA will consist of the following executives members, who shall be voting membe
 - Director of Advocacy
 - Director of Internal Affairs
 - Director of Promotions
+- Director of Technology
 
 CSSA will consist of the following non-executives who shall be non-voting members of the group but will be involved in assisting the executives as part of the council:
 
