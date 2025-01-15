@@ -3,7 +3,7 @@
 
 **First Official Draft**: May 10th, 2023
 
-**Last Amended**: January 6, 2024
+**Last Amended**: January 15, 2025
 
 - [**Definitions**](#definitions)
 - [**Section 1: Club Identity**](#section-1-club-identity)
@@ -220,13 +220,28 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Promotions
-1. Advertise group events and activites on the CSSA's social media pages.
+
+1. Advertise group events and activities *both digitally on* the CSSA's social media pages and CS Discord and physically around campus.
 2. Direct inquiries from social media channels to the appropriate Council member in a timely manner.
-3. Consult the Director of Advocacy about the accessibility of promotional graphics and the CSSA website.
-4. Consult the Director of Events about how group events should be advertised on social media.
-5. Make photographs taken at group events available online and over email on request.
-6. Verify media consent from all event attendees prior to taking or sharing their photograph.
-7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+3. Forward Promotion Requests from the Department and related people to the computer science community.
+4. Consult the Director of Events about how group events should be advertised physically and digitally.
+5. Coordinate with the Director of Technology to ensure information is available on the CSSA website.
+6. Make photographs taken at group events available online and over email on request.
+7. Consult the Director of Advocacy about the accessibility of promotional graphics. 
+8. Verify media consent from all event attendees prior to taking or sharing their photograph.
+9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+
+### Director of Technology
+
+1. Manage the CSSA website and ensure all information is clear and up-to-date.
+2. Coordinate with university IST and related relevant parties to administrate the CSSA’s server.
+3. Create and maintain Discord bots and related digital tools for use by the CS community.
+4. Manage any technological systems needed for use during the CSSA’s events.
+5. Serve as liaison between Council and external technology service providers.
+6. Consult the Director of Advocacy about the accessibility of the CSSA website.
+7. Work with the Director of Promotions to promote all upcoming events on the CSSA website.
+8. Consult the Director of Events to ensure all events are documented on the CSSA website.
+9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### All Executives
 
@@ -440,9 +455,9 @@ To prevent corruption, [**Section 4: Club Governance**](#section-4-club-governan
 ## Article 4e: Violations to Constitution
 When an executive or multiple executives violate(s) the article(s) in this constitution, the following disciplinary actions will come into effect:
 
-1. To avoid any conflict of interest, UMSU oversees any violations of constitutions. Every situation will be different and thus, UMSU will always have full oversight and discretion regarding what the verdict is, when the verdict takes place, and decide if disciplinary action is necessary. This is to guarantee a fair process and the well-being of students, the club, the overall campus community, and relevant stakeholders. UMSU will be responsible for explaining the violation and the possible repercussions. UMSU will also provide recommendations for how the club can move forward after the violation and consequences are settled. 
+1. To avoid any conflict of interest, UMSU oversees any violations of constitutions. Every situation will be different and thus, UMSU will always have full oversight and discretion regarding what the verdict is, when the verdict takes place, and decide if disciplinary action is necessary. This is to guarantee a fair process and the well-being of students, the club, the overall campus community, and relevant parties. UMSU will be responsible for explaining the violation and the possible repercussions. UMSU will also provide recommendations for how the club can move forward after the violation and consequences are settled. 
 2. To maintain equity, the severity of repercussions will depend on the weight of the constitution violation and the specifics of the situation. UMSU will act as a neutral third party in assessing the infringement and will pass down an appropriate conclusion on the matter. This will be based on precedent and UMSU bylaw parameters.
-3. Depending on the severity of the violation, CSSA may lose our recognition status, club funding, services, benefits, be expelled from UMSU, and/or receive repercussions from relevant stakeholders. Individual executive(s) may be dismissed from their term in office, lose benefits, lose services, expelled from the club, and/or receive personal repercussions from relevant stakeholders. Relevant stakeholders most importantly include the University of Manitoba Administration.
+3. Depending on the severity of the violation, CSSA may lose our recognition status, club funding, services, benefits, be expelled from UMSU, and/or receive repercussions from relevant parties. Individual executive(s) may be dismissed from their term in office, lose benefits, lose services, expelled from the club, and/or receive personal repercussions from relevant parties. relevant parties most importantly include the University of Manitoba Administration.
 
 Please note that this is not an exhaustive list of disciplinary punishments as UMSU will have full discretion regarding the matter.
 
