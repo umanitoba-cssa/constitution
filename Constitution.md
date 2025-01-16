@@ -64,7 +64,7 @@ The members of the club which are usually the council and its members.
 ## **Member in good standing**
 This is the status of the member with respect to the club’s internal conduct and rules whose main purpose is to civilly govern their community.
 
-## **Stakeholder**
+## **Interested/Affected/Relevant Parties**
 A person or group who has a vested interest in an organisation and can either affect or be affected by its operations and performance. Examples can be customers, businesses, communities, or governments. (Investopedia)
 
 ## **CSSA**
