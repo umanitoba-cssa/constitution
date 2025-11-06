@@ -11,6 +11,7 @@
   - [**Article 1b: Purpose**](#article-1b-purpose)
   - [**Article 1c: Club Status - Open**](#article-1c-club-status---open)
   - [**Article 1d: Membership**](#article-1d-membership)
+  - [**Article 1e: Board of Science Groups**](#article-1e-board-of-science-groups)
 - [**Section 2: Club Executives, Councillors, and Committees**](#section-2-club-executives-councillors-and-committees)
   - [**Article 2a: Terms of Office**](#article-2a-terms-of-office)
   - [**Article 2b: Executive Officers and Duties**](#article-2b-executive-officers-and-duties)
@@ -25,13 +26,14 @@
     9. [Director of Promotions](#director-of-promotions)
     10. [All Executives](#all-executives)
   - [**Article 2c: Executive Officer Dismissal Protocol**](#article-2c-executive-officer-dismissal-protocol)
-  - [**Article 2d: Committees, Councillors, and Community Advocates**](#article-2d-committees-councillors-and-community-advocates)
+  - [**Article 2d: Committees and Councillors**](#article-2d-committees-and-councillors)
 - [**Section 3: Club Changeover**](#section-3-club-changeover)
   - [**Article 3a: Conflict of Interest**](#article-3a-conflict-of-interest)
   - [**Article 3b: Chief Returning Officer Appointment**](#article-3b-chief-returning-officer-appointment)
   - [**Article 3c: Chief Returning Officer Duties**](#article-3c-chief-returning-officer-duties)
   - [**Article 3d: President Appointment Procedure**](#article-3d-president-appointment-procedure)
-  - [**Article 3e: Council Appointment Systems**](#article-3e-council-appointment-systems)
+  - [**Article 3e: Council Appointment Procedure**](#article-3e-council-appointment-procedure)
+  - [**Article 3f: Council Appointment Systems**](#article-3f-council-appointment-systems)
     1. [Democratic Election Procedure](#democratic-election-procedure)
     2. [Application Selection Procedure](#application-selection-procedure)
 - [**Section 4: Club Governance**](#section-4-club-governance)
@@ -53,7 +55,7 @@ This is a label for individuals that take up positions at the top of the club’
 This is a label for specific individuals who have authorization to sign cheques, contracts, or anything legally binding in relation the club. Usually this is in reference to individuals who have authority to manage and access bank accounts, but it can also be used in UMSU for individuals who can make contracts with UMSU.
 
 ## **Conflict of Interest**
-This conflict happens when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organisation or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral. (Investopedia)
+This conflict happens when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organization or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral. (Investopedia)
 
 ## **Council**
 Any person in power that has any duties or responsibilities to the club such as executives, council members, volunteers, etc. Proxy members part of council must be Computer Science students.
@@ -65,7 +67,7 @@ The members of the club which are usually the council and its members.
 This is the status of the member with respect to the club’s internal conduct and rules whose main purpose is to civilly govern their community.
 
 ## **Stakeholder**
-A person or group who has a vested interest in an organisation and can either affect or be affected by its operations and performance. Examples can be customers, businesses, communities, or governments. (Investopedia)
+A person or group who has a vested interest in an organization and can either affect or be affected by its operations and performance. Examples can be customers, businesses, communities, or governments. (Investopedia)
 
 ## **CSSA**
 Computer Science Students’ Association
@@ -109,9 +111,19 @@ CSSA will consist of the following non-executives who shall be non-voting member
 
 Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
 
-### Community Advocates
+## Article 1e: Board of Science Groups
 
-Community Advocates may not be on social probation and must be a Member in good standing as defined by UMSU.
+> *This clause is active until May 1st 2026. This clause has been added for the CSSA to join the Board of Science Groups (BOSG). After May 1st 2026 this clause can be removed with no vote by the members of the CSSA.*
+
+CSSA is a student group that upholds an inclusive and diverse environment that represents a diverse community of students, to remain as such, CSSA is non-partisan and will refrain from associating with politically rooted topics unrelated to computer science and technology or University of Manitoba unions. Any stances that CSSA has will be objective and made without influence of any particular political stance
+
+In the event where CSSA may consider that an initiative, statement or action may be political and unrelated to computer science and technology or University of Manitoba unions, they must refer to the Science Student Association (SSA) Executive Council, for review and approval before moving forward with the initiative, statement or action.
+
+If CSSA violates any of the terms required to join the BOSG the following disciplinary actions will come into effect:
+
+- Upon the first violation of this constitution, CSSA will be deducted $1000 of their allotted Board of Science Student Group funding
+
+- Upon the second violation of this constitution, CSSA will be removed from the Board of Science Student Groups and will be denied re-application to the Board of Science Student Groups for 1 academic year.
 
 # Section 2: Club Executives, Councillors, and Committees
 
@@ -122,10 +134,10 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 
 
 ### President
-1. Act as a signing authority for CSSA.
-2. Be the contact person for UMSU.
+1. Act as a signing authority for CSSA.[^2]
+2. Be the contact person for UMSU.[^1]
 3. Maintain frequent and punctual communication with the Faculty of Science, Department of Computer Science, UMSU, Members of Council, Members of the Association, and all other relevant parties.
-4. Attend Student Executive Assembly (SEA) Meetings on behalf of CSSA.
+4. Attend Association of Club Executives (ACE) Meetings on behalf of CSSA or appoint a proxy to attend.[^4]
 5. Be responsible for the overall operations of the group.
 6. Deal with issues concerning the club and its individual Members.
 7. Coordinate team-building events for Council.
@@ -135,20 +147,28 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 11. Attend all meetings.
 12. Carry out provisions of the constitution.
 13. Ensure the group funds remain in budget with local and corporate sponsors along with the Director of Finances and Internal Affairs.
-14. Ensure that the CSSA lounge is a safe and inclusive space.
-15. Enforce that the transition report is done by April 30 of the Council’s term.
-16. Perform any other duties incidental to the office of the President or directed by Council.
+14. Assign tasks and initiatives to Council, and set deadlines when applicable.
+15. See that tasks and initiatives undertaken by Council are completed by their deadlines.[^3]
+16. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
+17. Enforce that the transition report is done by April 30 of the Council’s term.
+18. Perform any other duties incidental to the office of the President or directed by Council.
 
 ### Vice President
-1. Act as a signing authority for CSSA.
-2. Assist the President with any of their duties as outlined above, as necessary or directed.
-3. Assume the role, duties, and ongoing tasks of the President in their absence.
-4. Ensure Executive Officers have adequate support and resources to perform their duties.
-5. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.
-6. Perform other duties incidental to this office within reasonble discretion as directed by the President and/or Council.
+1. Act as a signing authority for CSSA.[^2]
+2. Act as the primary contact person for external communications with CSSA.
+3. Be the contact person for UMSU and SSA.
+4. Attend Association of Club Executives (ACE) Meetings on behalf of CSSA, or appoint a proxy to attend.[^4]
+5. Attend Board of Science Groups (BOSG) Meetings on behalf of CSSA, or appoint a proxy to attend.[^4]
+5. Ensure that all CSSA Executives have completed any training as required by UMSU and is recorded by UMSU.[^3]
+6. Ensure Executive Officers have adequate support and resources to perform their duties.
+7. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.
+8. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
+9. Assist the President with any of their duties as outlined above, as necessary or directed.
+10. Assume the role, duties, and ongoing tasks of the President in their absence.
+11. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Finances
-1. Act as a signing authority for CSSA.
+1. Act as a signing authority for CSSA.[^2]
 2. Provide brief, regular reports on CSSA finances and expenses to Council and members of the CSSA.
 3. Be responsible for and track all funds generated by Council events.
 4. Oversee and track all of Council's expenditures.
@@ -157,30 +177,32 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 7. Perform a year-end audit at the end of the CSSA Fiscal Year.
 8. Prepare and present the budgets for group activities.
 9. Contact UMSU, the Science Students' Association, and external sponsors for funding when appropriate.
-10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+10. Oversee that any treasury training as required by UMSU happens for all signing authorities and is recorded with UMSU.
+11. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Lounge Affairs
 
-1. Act as a signing authority for CSSA.
+1. Act as a signing authority for CSSA.[^2]
 2. Create a cleaning schedule for the CSSA Lounge.
 3. Monitor maintenance of the CSSA Office, CSSA Lounge, and purchase pertinent supplies when needed.
 4. Ensure appropriate reservation, organization, and signage for events that take place in the CSSA Lounge.
-5. Ensure that the CSSA lounge is a safe and inclusive space.
+5. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 6. Work with the Director of Finances and the Finance Committee to record lounge transactions.
-7. Lead the Lounge Committee, call committee meetings and delegate tasks to committee members.
-8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+7. Ensure that the lounge supplies and canteen are restocked routinely.
+8. Lead the Lounge Committee, call committee meetings and delegate tasks to committee members.
+9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Student Affairs
 
 1. Act as a liaison for the students towards the Department of Computer Science, Faculty of Science and UMSU.
 2. Act as a liaison between students and Council.
 3. Stay up to date on Faculty and Senate meetings pertaining to the Computer Science program.
-4. Attend Student Executive Assembly (SEA) Meetings and Department of Computer Science Meetings on behalf of the CSSA, or put fair effort into acquiring a proxy from Council.
+4. Attend Association of Club Executives (ACE) Meetings and Department of Computer Science Meetings on behalf of the CSSA, or put fair effort into acquiring a proxy from Council.[^4]
 5. Summarize the relevant contents of external meetings to Council.
 6. Lead relevant campaigns on issues affecting computer science students.
-7. Work with the Director of Internal Affairs to maintain communication with other University of Manitoba student groups.
+7. Work with the Vice President to maintain communication with other University of Manitoba student groups.
 8. Work with the Director of Advocacy to promote opportunities of initiative/programs/organizations pertaining to where the Computer Science community is underrepresented.
-9. Ensure that the CSSA lounge is a safe and inclusive space.
+9. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Events
@@ -189,7 +211,7 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 2. Coordinate a minimum of one event or academic initiative in each term, at the discretion of the Council.
 3. Ensure there are an adequate number of social and academic events.
 4. Work in collaboration with other groups to promote and assist with collaborative events and initiatives.
-5. Ensure that the CSSA lounge is a safe and inclusive space.
+5. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 6. Work with the Director of Finances to contact UMSU, the Science Students' Association, and external sponsors for event funding.
 7. Work with the Director of Promotions to create posters and advertisements for all CSSA events.
 8. Ensure advertisements in an accessible format are created for all CSSA events.
@@ -199,26 +221,30 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 ### Director of Advocacy
 If not filled by an elected executive in the CSSA elections, an elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA, e.g., the Women in Computer Science Council.
 
-1. Act as a liason between CSSA and UMSU community representatives: 2SLGBTQIA+, Accessibility, Black, Indigenous, International, Mature, Racialized and Women.
+1. Act as a liaison between CSSA and UMSU community representatives: 2SLGBTQIA+, Accessibility, Black, Indigenous, International, Mature, Racialized and Women.
 2. Attend UMSU Community Assemblies.
 3. Guide the council on advocacy for underrepresented communities.
-4. Ensure that the CSSA lounge is a safe and inclusive space.
-5. Oversee the appointment of Community Advocates and ensure that it is run competently, fairly, accessibly, without bias, and transparently to CSSA's members.
-6. Work with, call meetings with, and delegate tasks to Community Advocates.
+4. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
+5. Oversee the appointment of the Advocacy Committee and ensure that it is run competently, fairly, accessibly, without bias, and transparently to CSSA's members.
+6. Lead the Advocacy Committee, call meetings with, delegate tasks to, and work with committee members.
 7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+8. Work with the Director of Technology and Director of Promotions to ensure that the CSSA's promotional and digital presence is accessible.
 
 ### Director of Internal Affairs
 
 1. Ensure the Council is kept updated on ongoing council initiatives.
 2. Reserve the meeting room for CSSA executive meetings, general meetings and the CS Executive Assembly.
-3. Prepare an agenda and council package for executive meetings and distribute them to the Council at least one week prior to the meeting.
+3. Prepare an agenda and council package for executive meetings and distribute them to the Council at least one day prior to the meeting.
 4. Record meeting minutes during CSSA executive meetings and CS Executive Assemblies, or appoint another Council member to do so.
 5. Work with the President to assign any actionable tasks that come about in meetings to members of Council.
-6. Work with the Director of Events to reserve rooms, equipment, and/or catering for on-campus activites.
-7. Monitor applications for Councillor positions and present them for consideration at CSSA executive meetings.
-8. Receive resignations of Council and inform Executives and the Computer Science student body of any such resignations.
-9. Ensure that the CSSA lounge is a safe and inclusive space.
-10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+6. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.
+7. Work with the Director of Events to reserve rooms, equipment, and/or catering for on-campus activities.
+8. Monitor applications for Councillor positions and present them for consideration at CSSA executive meetings.
+9. Manage the Councillor selection process, including communication regarding acceptance and rejection.
+10. Receive resignations of Council and inform Executives and the Computer Science student body of any such resignations.
+11. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
+12. Ensure that all CSSA Executives have completed any required training as required by UMSU.
+13. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Promotions
 
@@ -269,7 +295,7 @@ If there are no written minutes, written notice, and/or the information presente
 
 If an executive officer is dismissed, the club must follow [**Section 3: Club Changeover**](#section-3-club-changeover) in order to follow the proper procedure(s) outlined to fill the vacant position(s).
 
-## Article 2d: Committees, Councillors, and Community Advocates
+## Article 2d: Committees and Councillors
 
 ### Committees
 A Committee is a group of council members that forms to complete a well-defined goal. Any Executive Officer may propose a committee by outlining its purpose and the criteria of its members (if any). The Council will vote on the formation of this Committee, and upon its formation, the proposing Executive Officer will lead it.
@@ -280,7 +306,7 @@ A Committee leader has have the following duties:
 3. Outline the necessary tasks for the Committee to complete its goal.
 4. Assign tasks to Committee members.
 5. Call Committee meetings.
-6. Report on Committee activites and progress at Council meetings.
+6. Report on Committee activities and progress at Council meetings.
 7. Appoint a proxy Committee leader in the event that they become unavailable to lead.
 
 If a Committee leader deems the Committee's goal to be fulfilled, they may propose its dissolution to be voted on by the Council.
@@ -288,10 +314,10 @@ If a Committee leader deems the Committee's goal to be fulfilled, they may propo
 ### Councillors
 Councillors are non-voting members of council. Members of CSSA may apply for a Councillor position through an application that is publicly available throughout the year. Councillor applicants may indicate their interest to join an active committee. Once appointed by the Council, a Councillor may assume a general purpose volunteer role, or be appointed to a committee that they express interest in.
 
-### Community Advocates
-Community Advocates are Councillors with the specific role of advocating for an marginalized group. Members of CSSA will have the option to self-nominate for a Community Advocate position on a separate application form.
+### Advocacy Councillors
+Advocacy Councillors with the specific role that advocate for marginalized groups. Members of CSSA will have the option to self-nominate for a Advocacy Committee position on a application form.
 
-The available Community Advocate roles include, but are not limited to:
+The marginalized groups include, but are not limited to:
 - Women's Advocate
 - Accessibility Advocate
 - 2SLGBTQIA+ Students' Advocate
@@ -301,12 +327,12 @@ The available Community Advocate roles include, but are not limited to:
 - Mature Students' Advocate
 - Racialized Students' Advocate
 
-Other advocate roles may be added at the discretion of the Director of Advocacy. An applicant must self-identify as a member of the community they are self-nominating to advocate for.
+Other groups may be added at the discretion of the Director of Advocacy. An applicant must self-identify as a member of one or more of the communities to be appointed on the Advocacy Committee.
 
-The Director of Advocacy is responsible for appointing Community Advocates and overseeing the self-nomination process. Community Advocates will be appointed at the end of September. Any unfilled Community Advocate positions may be open for the remainder of the academic year until they are filled.
+The Director of Advocacy is responsible for appointing Advocacy Councillors and overseeing the application process. Advocacy Councillors will be appointed at the end of September. The Director of Advocacy may hold additional applications throughout the academic year as required.
 
 ### Dismissal of Councillors
-Councillors, including Community Advocates, may step down from their role voluntarily by notifying an executive member.
+Councillors may step down from their role voluntarily by notifying an executive member.
 
 If necessary, the Council may vote to remove a Councillor from their role. The reason for this vote must be clearly documented, dated, and stored in case the club is under investigation. The Councillor must be notified of their possible dismissal, and of the reasons behind it, with at least two weeks' notice of the vote being conducted. During this time, the Councillor will be subject to temporary probation until Council votes to dismiss or retain them.
 
@@ -315,7 +341,7 @@ As in [Article 2c: Executive Officer Dismissal Protocol](#article-2c-executive-o
 # Section 3: Club Changeover
 
 ## Article 3a: Conflict of Interest
-A Conflict of Interest is defined as when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organisation or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral.
+A Conflict of Interest is defined as when an entity or individual becomes unreliable because of a clash between personal interests and professional duties or responsibilities. Such a conflict occurs when an organization or person has a specific interest in the outcome and serves to gain from it —such as money, status, knowledge, relationships, or reputation—which puts into question whether their actions, judgement, and/or decision-making can be neutral.
 
 During an election process, conflicts of interest may arise. When they do, the individual who has professional duties or responsibilities related to organising the democratic election procedure must identify their conflict of interest and withdraw from the role for that particular election. This is to guarantee a fair democratic process. Failure to identify the conflict of interest and/or withdrawal from the role will be considered a violation to the club’s constitution and the club will be subjected to the disciplinary items outlined in [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
@@ -357,8 +383,25 @@ Voting for the upcoming year’s President will be conducted as follows:
 
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
-## Article 3e: Council Appointment Systems
-If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation; however a good faith attempt must be made to complete the democratic election procedure. This is subject to [**Article 2d: Committees, Councillors, and Community Advocates**](#article-2d-committees-councillors-and-community-advocates). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
+## Article 3e: Council Appointment Procedure
+To ensure that students are adequately represented, certain positions are required to be elected officials. 
+
+These positions are as follow:
+
+1. Vice President
+2. Director of Advocacy
+3. Director of Student Affairs
+
+For the rest of the executive positions the CRO may either conduct their selection as a democratic election process, or an application appointment system. 
+
+If the CRO chooses to conduct the selection of the remaining council positions through an democratic election process. Elections must be run during the same period that the election of the President, Vice President, Director of Advocacy, and Director of Student Affairs is run. The election process is subject to follow the procedures in [**Democratic Election Procedure**](#democratic-election-procedure)
+
+If the CRO chooses to conduct the selection of the remaining council positions through an applicant appointment system. Applications must be available during the Council Election period, so that once elected the incoming team may start interviewing and appointing positions immediately. Application forms should be made in collaboration with the CRO and the previous executive team to ensure that the application covers enough information so that the incoming team may be informed in their selections. The application is subject to follow the procedures in [**Applicantion Selection Procedure**](#application-selection-procedure)
+
+Any tampering of the democratic election process, or the application appointment system outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
+
+## Article 3f: Council Appointment Systems
+If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation; however a good faith attempt must be made to complete the democratic election procedure. This is subject to [**Article 2d: Committees and Councillors**](#article-2d-committees-and-councillors). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
 
 If it is found that a council appointment was not appointed in good faith and the procedure was not followed, the action will be considered in violation of the constitution and the club will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
@@ -407,7 +450,7 @@ Appointment for the upcoming year’s Council will be conducted as follows:
 
 Any tampering of the process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
-## Article 3f: Executive Transition Procedure
+## Article 3g: Executive Transition Procedure
 
 1. The moment an incoming executive(s) has been officially named to be appointed into their new role, the transition procedure starts immediately. Ideally, this should be around the mid-end of the Winter Term or beginning of the Summer Term.
 2. The departing executive(s) must prepare and transition the incoming executive(s) into their respective roles. This includes teaching the incoming executives about the student club, UMSU policies and procedures, and completing UMSU Administrative paperwork such as the annual club renewal.
@@ -463,3 +506,13 @@ When an executive or multiple executives violate(s) the article(s) in this const
 Please note that this is not an exhaustive list of disciplinary punishments as UMSU will have full discretion regarding the matter.
 
 ### CSSA agrees and understands the content above regarding what may happen if they violate their own constitution.
+
+[^1]: Shared with President and Vice President
+
+[^2]: Shared with President, Vice President, Director of Lounge Affairs, and Director of Finance.
+
+[^3]: Shared with President, Vice President, and Director of Internal Affairs.
+
+[^4]: Shared with President, Vice President, and Director of Student Affairs
+
+[^5]: Shared with President, Vice President, Director of Lounge Affairs, Director of Student Affairs, Director of Events, Director of Advocacy, and Director of Internal Affairs
