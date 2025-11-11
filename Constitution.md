@@ -213,10 +213,8 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 4. Work in collaboration with other groups to promote and assist with collaborative events and initiatives.
 5. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 6. Work with the Director of Finances to contact UMSU, the Science Students' Association, and external sponsors for event funding.
-7. Work with the Director of Promotions to create posters and advertisements for all CSSA events.
-8. Ensure advertisements in an accessible format are created for all CSSA events.
-9. Work with the Director of Promotions to advertise group events on the CSSA's social media pages.
-10. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
+7. Work with the Director of Promotions to promote CSSA events ensuring accessibility and availability.
+8. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Advocacy
 If not filled by an elected executive in the CSSA elections, an elected executive of an UMSU recognized underrepresented community within the Department of Computer Science may be appointed as the Director of Advocacy for the CSSA, e.g., the Women in Computer Science Council.
@@ -248,10 +246,10 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 
 ### Director of Promotions
 
-1. Advertise group events and activities *both digitally on* the CSSA's social media pages and CS Discord and physically around campus.
+1. Advertise group events and activities both digitally on CSSA's social media pages and CS Discord and physically around campus.
 2. Direct inquiries from social media channels to the appropriate Council member in a timely manner.
 3. Forward Promotion Requests from the Department and related people to the computer science community.
-4. Consult the Director of Events about how group events should be advertised physically and digitally.
+4. Consult with Council to ensure initiatives are advertised both physically and digitally.
 5. Coordinate with the Director of Technology to ensure information is available on the CSSA website.
 6. Make photographs taken at group events available online and over email on request.
 7. Consult the Director of Advocacy about the accessibility of promotional graphics. 
@@ -263,7 +261,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 1. Manage the CSSA website and ensure all information is clear and up-to-date.
 2. Coordinate with university IST and related relevant parties to administrate the CSSA’s server.
 3. Create and maintain Discord bots and related digital tools for use by the CS community.
-4. Manage any technological systems needed for use during the CSSA’s events.
+4. Manage any technological systems needed for use during CSSA’s events.
 5. Serve as liaison between Council and external technology service providers.
 6. Consult the Director of Advocacy about the accessibility of the CSSA website.
 7. Work with the Director of Promotions to promote all upcoming events on the CSSA website.
@@ -283,8 +281,9 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 9. Refrain from drug/alcohol use or sexual activity at any CSSA event or in the CSSA lounge. Alcohol consumption is only permitted if the venue of the event distributes alcohol.
 10. Not allow any persons who are not Members of Council to use CSSA Office space in the absence of a Member of Council.
 11. Prepare, in cooperation with other executives of the same position when applicable, an orientation package for the subsequent person to fill each position.
-12. Attend all regular meetings.
-13. Put fair effort into acquiring a proxy, in the event a voting member is unable to attend a Council meeting.
+12. Work with the Director of Promotions to advertise initiatives on CSSA social media pages.
+13. Attend all regular meetings.
+14. Put fair effort into acquiring a proxy, in the event a voting member is unable to attend a Council meeting.
 
 ## Article 2c: Executive Officer Dismissal Protocol
 Executive Officer(s) that fail to uphold their basic duties outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or violate any Governance articles in [**Section 4: Club Governance**](#section-4-club-governance) are subjected to temporary probation for a performance review. This performance review must be started and conducted by the President and requires a clear written assessment of the officer’s performance versus the minimum threshold of the duties that the officer must do as outlined in [**Article 2b**](#article-2b-executive-officers-and-duties) and/or [**Section 4: Club Governance**](#section-4-club-governance). Written assessment must be documented, dated, and stored in case the club is under investigation.
