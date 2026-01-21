@@ -383,6 +383,8 @@ Voting for the upcoming year’s President will be conducted as follows:
 
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
+In the case of needing to replace the President it must trigger an election for the position with the Vice President assuming the interim position of President until a new President is elected.
+
 ## Article 3e: Council Appointment Procedure
 To ensure that students are adequately represented, certain positions are required to be elected officials. 
 
@@ -401,7 +403,9 @@ If the CRO chooses to conduct the selection of the remaining council positions t
 Any tampering of the democratic election process, or the application appointment system outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ## Article 3f: Council Appointment Systems
-If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation; however a good faith attempt must be made to complete the democratic election procedure. This is subject to [**Article 2d: Committees and Councillors**](#article-2d-committees-and-councillors). Note that the criteria and reasoning for any aspects of the council appointment – such as application, interviews, selection, etc. – must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
+If there are open council position(s) available, positions can be appointed through either a democratic election procedure or an application selection procedure. It is up to the President to decide which procedure will best fit for the club and their community based on the status of the club at the time of council formation; however a good faith attempt must be made to complete the democratic election procedure. This is subject to [**Article 2d: Committees and Councillors**](#article-2d-committees-and-councillors). 
+
+Note that the criteria and reasoning for any aspects of the council appointment such as application, interviews, selection, etc. It must not be discriminatory by nature and should not factor a person’s race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability. Exceptions can only apply if they are legitimate factors that negatively affect performance. In that case, a cover letter explanation must be documented per exception.
 
 If it is found that a council appointment was not appointed in good faith and the procedure was not followed, the action will be considered in violation of the constitution and the club will be subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
@@ -431,6 +435,7 @@ Any tampering of the democratic voting process outlined here will constitute as 
 All CSSA Council Positions must be filled for the upcoming year by no later than October 1st on an annual basis. Exceptions can only be made on a case-by-case basis such as an executive being dismissed.
 
 Before advertising the vacant council position(s), the new President must appoint a Selections Committee to assist in selecting the upcoming year’s Council:
+
 - The appointment of the Selections Committee individuals must be chosen through a democratic vote from the previous year’s council.
 - If the Selections Committee does not consist of the new President and last year’s 10 Council Members, then this procedure cannot be enacted. In total, you will have 11 members on this committee. This is considered the general standard for the Selections Committee structure.
 - In the case that the Selections Committee cannot be appointed due to not fulfilling the requirements, the President must use the Democratic Election Procedure outlined above.
