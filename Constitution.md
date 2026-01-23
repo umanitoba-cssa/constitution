@@ -124,7 +124,7 @@ If CSSA violates any of the terms required to join the BOSG the following discip
 
 - Upon the first violation of this constitution, CSSA will be deducted $1000 of their allotted Board of Student Group funding
 
-- Upon the second violation of this constitution, CSSA will be removed from the Board of Student Groups and will be denied re-application to the Board of Science Student Groups for 1 academic year.
+- Upon the second violation of this constitution, CSSA will be removed from the Board of Student Groups and will be denied re-application to the Board of Student Groups for 1 academic year.
 
 # Section 2: Club Executives, Councillors, and Committees
 
