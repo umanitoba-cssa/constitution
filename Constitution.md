@@ -11,7 +11,7 @@
   - [**Article 1b: Purpose**](#article-1b-purpose)
   - [**Article 1c: Club Status - Open**](#article-1c-club-status---open)
   - [**Article 1d: Membership**](#article-1d-membership)
-  - [**Article 1e: Board of Science Groups**](#article-1e-board-of-science-groups)
+  - [**Article 1e: Board of Student Groups(SSA)**](#article-1e-board-of-student-groups-ssa)
 - [**Section 2: Club Executives, Councillors, and Committees**](#section-2-club-executives-councillors-and-committees)
   - [**Article 2a: Terms of Office**](#article-2a-terms-of-office)
   - [**Article 2b: Executive Officers and Duties**](#article-2b-executive-officers-and-duties)
@@ -112,9 +112,9 @@ CSSA will consist of the following non-executives who shall be non-voting member
 
 Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
 
-## Article 1e: Board of Science Groups
+## Article 1e: Board of Student Groups (SSA)
 
-> *This clause is active until May 1st 2026. This clause has been added for the CSSA to join the Board of Science Groups (BOSG). After May 1st 2026 this clause can be removed with no vote by the members of the CSSA.*
+> *This clause is active until May 1st 2026. This clause has been added for the CSSA to join the Board of Student Groups (BOSG). After May 1st 2026 this clause can be removed with no vote by the members of the CSSA.*
 
 CSSA is a student group that upholds an inclusive and diverse environment that represents a diverse community of students, to remain as such, CSSA is non-partisan and will refrain from associating with politically rooted topics unrelated to computer science and technology or University of Manitoba unions. Any stances that CSSA has will be objective and made without influence of any particular political stance
 
@@ -122,9 +122,9 @@ In the event where CSSA may consider that an initiative, statement or action may
 
 If CSSA violates any of the terms required to join the BOSG the following disciplinary actions will come into effect:
 
-- Upon the first violation of this constitution, CSSA will be deducted $1000 of their allotted Board of Science Student Group funding
+- Upon the first violation of this constitution, CSSA will be deducted $1000 of their allotted Board of Student Group funding
 
-- Upon the second violation of this constitution, CSSA will be removed from the Board of Science Student Groups and will be denied re-application to the Board of Science Student Groups for 1 academic year.
+- Upon the second violation of this constitution, CSSA will be removed from the Board of Student Groups and will be denied re-application to the Board of Science Student Groups for 1 academic year.
 
 # Section 2: Club Executives, Councillors, and Committees
 
