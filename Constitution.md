@@ -386,19 +386,11 @@ Any tampering of the democratic voting process outlined here will constitute as 
 In the case of needing to replace the President it must trigger an election for the position with the Vice President assuming the interim position of President until a new President is elected.
 
 ## Article 3e: Council Appointment Procedure
-To ensure that students are adequately represented, certain positions are required to be elected officials. 
+Council positions should be opened to nominations during an election period following the democratic voting process as defined in [**Democratic Election Procedure**](#democratic-election-procedure).
 
-These positions are as follow:
+If a position is not filled during the nomination period of the election, the CRO should post an application form that closes at least 2 weeks following the conclusion of the voting process to allow the incoming team to start interviewing and appointing positions immediately at the start of their term. 
 
-1. Vice President
-2. Director of Advocacy
-3. Director of Student Affairs
-
-For the rest of the executive positions the CRO may either conduct their selection as a democratic election process, or an application appointment system. 
-
-If the CRO chooses to conduct the selection of the remaining council positions through an democratic election process. Elections must be run during the same period that the election of the President, Vice President, Director of Advocacy, and Director of Student Affairs is run. The election process is subject to follow the procedures in [**Democratic Election Procedure**](#democratic-election-procedure)
-
-If the CRO chooses to conduct the selection of the remaining council positions through an applicant appointment system. Applications must be available during the Council Election period, so that once elected the incoming team may start interviewing and appointing positions immediately. Application forms should be made in collaboration with the CRO and the previous executive team to ensure that the application covers enough information so that the incoming team may be informed in their selections. The application is subject to follow the procedures in [**Applicantion Selection Procedure**](#application-selection-procedure)
+Application forms should be made in collaboration with the CRO and the memebers of previous executive team that are not candidates within the election to ensure that the application form covers enough information so that the incoming team may be informed in their selections. If there are no previous executives that are not candidates within the election, the recommendation of the form should be made current President and Vice President with the best inerest of the club in mind. The application is subject to follow the procedures in [**Applicantion Selection Procedure**](#application-selection-procedure).
 
 Any tampering of the democratic election process, or the application appointment system outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
