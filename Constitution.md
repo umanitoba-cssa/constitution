@@ -37,6 +37,7 @@
   - [**Article 3f: Council Appointment Systems**](#article-3f-council-appointment-systems)
     1. [Democratic Election Procedure](#democratic-election-procedure)
     2. [Application Selection Procedure](#application-selection-procedure)
+  - [**Article 3g: Executive Transition Procedure**](#article-3g-executive-transition-procedure)
 - [**Section 4: Club Governance**](#section-4-club-governance)
   - [**Article 4a: Compliance with University of Manitoba Students' Union (UMSU) Policies**](#article-4a-compliance-with-university-of-manitoba-students-union-umsu-policies)
   - [**Article 4b: Compliance to a Sexual Violence Prevention Workshop**](#article-4b-compliance-to-a-sexual-violence-prevention-workshop)
