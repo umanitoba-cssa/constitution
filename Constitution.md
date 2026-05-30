@@ -61,6 +61,9 @@ This conflict happens when an entity or individual becomes unreliable because of
 ## **Council**
 Any person in power that has any duties or responsibilities to the club such as executives, council members, volunteers, etc. Proxy members part of council must be Computer Science students.
 
+## **Lounge Supervisors**
+A team of non-Council Computer Science students appointed by the Council to assist in the maintenance and daily operations of the CSSA Lounge. 
+
 ## **Community**
 The members of the club which are usually the council and its members.
 
@@ -190,13 +193,13 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 5. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 6. Work with the Director of Finances and the Finance Committee to record lounge transactions.
 7. Ensure that the lounge supplies and canteen are restocked routinely.
-8. Lead the Lounge Committee, call committee meetings and delegate tasks to committee members.
+8. Coordinate the Lounge Supervisors Team and distribute tasks to the supervisors when required by the Director of Lounge Affairs.
 9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### Director of Student Affairs
 
 1. Act as a liaison for the students towards the Department of Computer Science, Faculty of Science and UMSU.
-2. Act as a liaison between students and Council.
+2. Act as a liaison between students and the Council.
 3. Stay up to date on Faculty and Senate meetings pertaining to the Computer Science program.
 4. Attend Association of Club Executives (ACE) Meetings and Department of Computer Science Meetings on behalf of the CSSA, or put fair effort into acquiring a proxy from Council.[^4]
 5. Summarize the relevant contents of external meetings to Council.
