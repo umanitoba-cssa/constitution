@@ -93,7 +93,7 @@ CSSA’s Club Status is Open.
 ## Article 1d: Membership
 Membership of the club is Free and lasts for a full academic year, September to August. Individuals can join via sign-up form from the executive team, at any event or through the community discord. Signup is not required to participate in the club or its activities.
 
-CSSA will consist of the following executives members, who shall be voting members of the group as part of the council:
+CSSA will consist of the following executive members, who shall be voting members of the group as part of the council:
 
 - President
 - Vice President
@@ -196,7 +196,7 @@ The Terms of Office for all Executive Positions at CSSA will last for at most on
 ### Director of Student Affairs
 
 1. Act as a liaison for the students towards the Department of Computer Science, Faculty of Science and UMSU.
-2. Act as a liaison between students and Council.
+2. Act as a liaison between students and the Council.
 3. Stay up to date on Faculty and Senate meetings pertaining to the Computer Science program.
 4. Attend Association of Club Executives (ACE) Meetings and Department of Computer Science Meetings on behalf of the CSSA, or put fair effort into acquiring a proxy from Council.[^4]
 5. Summarize the relevant contents of external meetings to Council.
@@ -225,7 +225,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 3. Guide the council on advocacy for underrepresented communities.
 4. Ensure that the CSSA lounge is a safe and inclusive space.[^5]
 5. Oversee the appointment of the Advocacy Committee and ensure that it is run competently, fairly, accessibly, without bias, and transparently to CSSA's members.
-6. Lead the Advocacy Committee, call meetings with, delegate tasks to, and work with committee members.
+6. Lead the Advocacy Committee, call meetings, delegate tasks, and work with committee members.
 7. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 8. Work with the Director of Technology and Director of Promotions to ensure that the CSSA's promotional and digital presence is accessible.
 
@@ -236,7 +236,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 3. Prepare an agenda and council package for executive meetings and distribute them to the Council at least one day prior to the meeting.
 4. Record meeting minutes during CSSA executive meetings and CS Executive Assemblies, or appoint another Council member to do so.
 5. Work with the President to assign any actionable tasks that come about in meetings to members of Council.
-6. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.
+6. See that tasks and initiatives undertaken by Council are completed by their deadlines, when applicable.[^3]
 7. Work with the Director of Events to reserve rooms, equipment, and/or catering for on-campus activities.
 8. Monitor applications for Councillor positions and present them for consideration at CSSA executive meetings.
 9. Manage the Councillor selection process, including communication regarding acceptance and rejection.
@@ -253,7 +253,7 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 4. Consult with Council to ensure initiatives are advertised both physically and digitally.
 5. Coordinate with the Director of Technology to ensure information is available on the CSSA website.
 6. Make photographs taken at group events available online and over email on request.
-7. Consult the Director of Advocacy about the accessibility of promotional graphics. 
+7. Consult with the Director of Advocacy about the accessibility of promotional graphics. 
 8. Verify media consent from all event attendees prior to taking or sharing their photograph.
 9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
@@ -263,10 +263,10 @@ If not filled by an elected executive in the CSSA elections, an elected executiv
 2. Coordinate with university IST and related relevant parties to administrate the CSSA’s server.
 3. Create and maintain Discord bots and related digital tools for use by the CS community.
 4. Manage any technological systems needed for use during CSSA’s events.
-5. Serve as liaison between Council and external technology service providers.
-6. Consult the Director of Advocacy about the accessibility of the CSSA website.
+5. Serve as a liaison between Council and external technology service providers.
+6. Consult with the Director of Advocacy about the accessibility of the CSSA website.
 7. Work with the Director of Promotions to promote all upcoming events on the CSSA website.
-8. Consult the Director of Events to ensure all events are documented on the CSSA website.
+8. Consult with the Director of Events to ensure all events are documented on the CSSA website.
 9. Perform other duties incidental to this office within reasonable discretion as directed by the President and/or Council.
 
 ### All Executives
@@ -300,7 +300,7 @@ If an executive officer is dismissed, the club must follow [**Section 3: Club Ch
 ### Committees
 A Committee is a group of council members that forms to complete a well-defined goal. Any Executive Officer may propose a committee by outlining its purpose and the criteria of its members (if any). The Council will vote on the formation of this Committee, and upon its formation, the proposing Executive Officer will lead it.
 
-A Committee leader has have the following duties:
+A Committee leader has the following duties:
 1. Appoint Committee members from Council.
 2. If applicable, announce the formation of the Committee to members of the CSSA so that they may apply for it.
 3. Outline the necessary tasks for the Committee to complete its goal.
@@ -315,7 +315,7 @@ If a Committee leader deems the Committee's goal to be fulfilled, they may propo
 Councillors are non-voting members of council. Members of CSSA may apply for a Councillor position through an application that is publicly available throughout the year. Councillor applicants may indicate their interest to join an active committee. Once appointed by the Council, a Councillor may assume a general purpose volunteer role, or be appointed to a committee that they express interest in.
 
 ### Advocacy Councillors
-Advocacy Councillors with the specific role that advocate for marginalized groups. Members of CSSA will have the option to self-nominate for a Advocacy Committee position on a application form.
+Advocacy Councillors with the specific role that advocate for marginalized groups. Members of CSSA will have the option to self-nominate for an Advocacy Committee position on an application form.
 
 The marginalized groups include, but are not limited to:
 - Women's Advocate
@@ -362,7 +362,7 @@ If a member or members of the executive team appoint CROs with a conflict of int
 The duties of the CRO are to:
 
 1. Oversee and administer the elections for CSSA.
-2. Publicise the elections to the membership of CSSA.
+2. Publicize the elections to the membership of CSSA.
 3. Hear and decide on any appeals or complaints related to the elections.
 4. Oversee and administer the electronic system’s results for votes of the election.
 5. Announce the results of the elections and inform UMSU of who next year’s Executive will be.
@@ -390,7 +390,7 @@ Council positions should be opened to nominations during an election period foll
 
 If a position is not filled during the nomination period of the election, the CRO should post an application form that closes at least 2 weeks following the conclusion of the voting process to allow the incoming team to start interviewing and appointing positions immediately at the start of their term. 
 
-Application forms should be made in collaboration with the CRO and the memebers of previous executive team that are not candidates within the election to ensure that the application form covers enough information so that the incoming team may be informed in their selections. If there are no previous executives that are not candidates within the election, the recommendation of the form should be made current President and Vice President with the best inerest of the club in mind. The application is subject to follow the procedures in [**Applicantion Selection Procedure**](#application-selection-procedure).
+Application forms should be made in collaboration with the CRO and the members of previous executive team that are not candidates within the election to ensure that the application form covers enough information so that the incoming team may be informed in their selections. If there are no previous executives that are not candidates within the election, the recommendation of the form should be made current President and Vice President with the best interest of the club in mind. The application is subject to follow the procedures in [**Application Selection Procedure**](#application-selection-procedure).
 
 Any tampering of the democratic election process, or the application appointment system outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
@@ -424,12 +424,12 @@ Nominations:
 Any tampering of the democratic voting process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
 
 ### Application Selection Procedure
-All CSSA Council Positions must be filled for the upcoming year by no later than October 1st on an annual basis. Exceptions can only be made on a case-by-case basis such as an executive being dismissed.
+All CSSA Council Positions must be filled for the upcoming year by no later than October 1st on an annual basis. Exceptions can only be made on a case-by-case basis such as an executive being dismissed. Exception requests must be made to the UMSU Vice President of Student Life and/or the Services Coordinator.
 
 Before advertising the vacant council position(s), the new President must appoint a Selections Committee to assist in selecting the upcoming year’s Council:
 
-- The appointment of the Selections Committee individuals must be chosen through a democratic vote from the previous year’s council.
-- If the Selections Committee does not consist of the new President and last year’s 10 Council Members, then this procedure cannot be enacted. In total, you will have 11 members on this committee. This is considered the general standard for the Selections Committee structure.
+- The appointment of the Selections Committee individuals must be chosen through a democratic vote from the current year’s executive team.
+- If the Selections Committee does not consist of the new President and 4 other members from either the previous executive team or (preferably) the current executive team, then this procedure cannot be enacted. In total, you will have 5 members on this committee. This is considered the general standard for the Selections Committee structure.
 - In the case that the Selections Committee cannot be appointed due to not fulfilling the requirements, the President must use the Democratic Election Procedure outlined above.
 
 Appointment for the upcoming year’s Council will be conducted as follows:
@@ -445,7 +445,7 @@ Appointment for the upcoming year’s Council will be conducted as follows:
 9. If the position remains vacant, the President can choose to redo the appointment procedure in this article or remove that position entirely.
 10. Once the selection process is over and the positions are filled, the new President is responsible for announcing to each candidate individually if they have gotten the position or not.
 
-Any tampering of the process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution).
+Any tampering of the process outlined here will constitute as a violation to the constitution and the club is subjected to [**Article 4e: Violations to Constitution**](#article-4e-violations-to-constitution). These selection documents should be saved for the duration of the academic year, in case a review is needed.
 
 ## Article 3g: Executive Transition Procedure
 
@@ -473,7 +473,7 @@ If any article in the club’s constitution is in direct conflict with [**Articl
 ## Article 4b: Compliance to a Sexual Violence Prevention Workshop
 To prevent sexual violence, CSSA council agrees to attend a sexual violence prevention workshop at UMSU’s discretion and direction. CSSA council agree to be held accountable for their community’s conduct with respect to sexual violence.
 
-At this workshop, usually hosted by Justice for Women’s University of Manitoba Club, CSSA council agrees to learn, apply, and adapt the content in the workshop towards their own club’s community. If the Justice for Women’s University of Manitoba Club is absent, UMSU will have full discretion in determining who will host these workshops.
+At this workshop, usually hosted by Justice for Women’s University of Manitoba Club, CSSA council agrees to learn, apply, and adapt the content in the workshop towards their own club’s community. UMSU will have full discretion in determining eligible SVP workshops.
 
 The completion of the workshop is required before CSSA can be recognized as a club by UMSU. This requirement must be completed before the end of the Fall semester in the academic year. Exceptions can be made on a case-by-case basis based on Student Group Services' discretion such as timing of club renewal.
 
