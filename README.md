@@ -1,5 +1,5 @@
 # Constitution for the University of Manitoba Computer Science Students' Association
-Last modified: March 26, 2026
+Last modified: July 13th, 2026
 
 ## Contributing
 1. Create a new branch with a name describing the amendment(s).
