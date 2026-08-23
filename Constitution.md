@@ -11,6 +11,7 @@
   - [**Article 1b: Purpose**](#article-1b-purpose)
   - [**Article 1c: Club Status - Open**](#article-1c-club-status---open)
   - [**Article 1d: Membership**](#article-1d-membership)
+  - [**Article 1e: Board of Science Student Groups (BOSG)**](#article-1e-board-of-science-student-groups-bosg)
 - [**Section 2: Club Executives, Councillors, and Committees**](#section-2-club-executives-councillors-and-committees)
   - [**Article 2a: Terms of Office**](#article-2a-terms-of-office)
   - [**Article 2b: Executive Officers and Duties**](#article-2b-executive-officers-and-duties)
@@ -114,6 +115,11 @@ CSSA will consist of the following non-executives who shall be non-voting member
 ### Councillor
 
 Councillors may not be on social probation and must be a Member in good standing as defined by UMSU.
+
+
+## Article 1e: Board of Science Student Groups (BOSG)
+
+The Computer Science Students' Association (CSSA) is a student group that upholds an inclusive and diverse environment; to remain as such, the Computer Science Students' Association (CSSA) is non-partisan and will refrain from taking any political stance or discussion on topics unrelated to computer science. Any stance on matters of computer science will not occur because of a particular political party's perspective or opposing matters. Initiating discussions on such topics in club platforms or environments is highly discouraged and could result in membership termination or executive officer disciplinary protocols.
 
 
 # Section 2: Club Executives, Councillors, and Committees
