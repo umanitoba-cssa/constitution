@@ -3,7 +3,7 @@
 
 **First Official Draft**: May 10th, 2023
 
-**Last Amended**: July 13th, 2026
+**Last Amended**: September 8th, 2026
 
 - [**Definitions**](#definitions)
 - [**Section 1: Club Identity**](#section-1-club-identity)
